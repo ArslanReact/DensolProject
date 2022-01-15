@@ -1,0 +1,614 @@
+"Product ID",Title,Article,"Is Feature",Promotion,"Is Active"
+193,"Thompson Retractor Set for liver Transplant","AR 106-600-1",1,0,1
+194,"Castroviejo Micro Scissors TC 18 cm Curved","AR 109-005",1,0,1
+195,"Dean Tonsil Scissors TC 17cm curved",103-065-1,1,0,1
+196,"Dental Micro Scissors Iris 105mm Serrated 20mm","AR 109-012",1,0,1
+197,"Gillies Needle Holder Scissors TC 16cm",1K1-116,1,0,1
+198,"Goldman Fox Scissors TC 13 cm Curved","Ar 103-114",1,0,1
+199,"Iris Micro Scissors 130mm TC Serrated 15mm",109-010,1,0,1
+200,"Iris Scissors Curved Supercut 11.5 cm","Ar 103-050-1",1,0,1
+201,"Iris Scissors Micro 105mm TC serrated 30mm Str","AR 109-007",1,0,1
+202,"Iris Scissors straight 11.5 cm TC","Ar 103-149-1",1,0,1
+203,"Kelly Scissors Curved 16cm TC",103-106-1,1,0,1
+204,"Metzenbaum Scissors 14.5 cm Curved TC","Ar 103-116",1,0,1
+205,"Metzenbaum Scissors Straight 14.5 cm TC","AR 103-118",1,0,1
+206,"Micro Iris Scissors 105mm TC Serrated Blade Str",109-006,1,0,1
+207,"Micro Iris Scissors SuperCut 105mm TC Serrated 15mm",KASDFG,1,0,1
+208,"Micro Surgery Scissors Iris TC 105mm Supercut Cvd","AR 109-011",1,0,1
+209,"SuperCut Goldman Fox Scissors TC 13 cm Straight","Ar 103-113",1,0,1
+210,"SuperCut Micro Iris Scissors 105mm TC Serrated 30mm","AR 109-008",1,0,1
+211,"Beebee Crown Scissors 12cm Curved",103-104,1,0,1
+212,"Beebee Scissors Crown 12cm Straight",103-105,1,0,1
+213,"Curved Goldman Fox Scissors 13 cm","AR 103-112",1,0,1
+214,"Curved Iris Scissors 11.5 cm SuperCut",103-050,1,0,1
+215,"Curved Kelly Scissors Dental 16 Cm",103-107,1,0,1
+216,"Dean Scissors Tonsil 17cm Curved","AR 103-065",1,0,1
+217,"La Grange Scissors 11.5 cm Double curved","AR 103-063",1,0,1
+218,"La-Grange Scissors 14 cm Double Curved",103-090,1,0,1
+219,"Littauer Stitch Scissors 15cm Straight","AR 103-123",1,0,1
+220,"Littauer Suture Scissors 9cm straight",103-120,1,0,1
+221,"Locklin Gum Scissors Curved 16cm",103-068,1,0,1
+222,"Martin Cartilage Scissors 11.5cm Curved",103-056,1,0,1
+223,"Mayo Scissors 14.5 cm. Curved",103-092,1,0,1
+224,"Metzenbaum Scissors Curved 14.5 cm","AR 103-095",1,0,1
+225,"Spencer Stitch Scissors 11cm Straight",103-121,1,0,1
+226,"Stitch Scissors Sutures 11.5cm Curved","AR 103-122",1,0,1
+227,"Straight Goldman Fox Scissors 13 cm","AR 103-110",1,0,1
+228,"Straight Iris Scissors 11.5 cm SuperCut",103-049,1,0,1
+229,"Straight Mayo Scissors 14.5 cm",103-091,1,0,1
+230,"Straight Metzenbaum Scissors 14.5 cm","AR 103-093",1,0,1
+231,"Castroviejo Micro Scissors 18 cm Curved","AR 103-077",1,0,1
+233,"Westcott Tenotomy Scissors 11cm","AR 103-074",1,0,1
+235,"Miller Bone File 21","Ar 106-214H",1,0,1
+236,"Bone Graft Packer Serrated 6mm/8mm","AR 106-283-1",1,0,1
+237,"Bone Graft Packer Spoon 6mm/3mm","AR 106-283",1,0,1
+238,"Bone Crusher Titanium TC",106-272,1,0,1
+239,"Bone Expander Drill Kit Sinus Lift Set of 12Pcs","AR 106-600",1,0,1
+240,"Dental Implant Kit Universal 50 pcs","AR 106-600-2",1,0,1
+241,"Bone Grafting Syringe 2.5mm","AR 106-320",1,0,1
+242,"Bone Grafting Syringe 3.5mm","AR 106-322",1,0,1
+243,"Bone Grafting Syringe 4.4mm","AR 106-321",1,0,1
+244,"Bone Grafting Syringe 7.0mm","AR 106-323",1,0,1
+245,"Castro Caliper 40mm Long Beak 45&deg;","AR 106-224",1,0,1
+246,"Castroviejo Caliper 20mm Beak 45&deg;","AR 106-217",1,0,1
+247,"Delux Boley Gauge 80mm Scale","AR 105-017",1,0,1
+248,"Implant Mini Dental Caliper for Mapping 0-80mm",106-216-1,1,0,1
+249,"Implant Mini Dental Caliper for Mapping 0-90mm",106-216,1,0,1
+251,"Iwanson Measuring Caliper 10mm","AR 103-476",1,0,1
+252,"Munich Sliding Caliper 80mm Scale.",105-017-1,1,0,1
+253,"Ridge Mapping Caliper 0-25mm Scale",104-998,1,0,1
+254,"Ridge Mapping Caliper 0-35mm",106-221,1,0,1
+255,"Bone chisel Ochsenbein 5mm Centre","AR 106-362",1,0,1
+256,"Bone Scraper Maxilofacial Oral Surgery",106-339,1,0,1
+257,"Dental Bone chisel Ochsenbein 5mm Left","AR 106-366",1,0,1
+258,"Dental Bone chisel Ochsenbein 5mm Right",106-364,1,0,1
+259,"Ridge Split Bone Chisel 1,5mm Single Cut",106-341,1,0,1
+260,"Ridge Split Bone Chisel 1mm Single Cut",106-340,1,0,1
+261,"Ridge Split Bone Chisel 2.5mm Single Cut","AR 106-343",1,0,1
+262,"Ridge Split Bone Chisel 2mm Single Cut","AR 106-342",1,0,1
+263,"Implant Bone Scraper Curved","AR 106-339-1",1,0,1
+264,"Dental Implant Mallet 18cm","AR 106-413",1,0,1
+265,"Dental Implant Mallet 19cm","AR 106-414",1,0,1
+266,"Dental Mallet 16 cm","AR 106-141",1,0,1
+267,"Dental Surgical Mallet 17cm","AR 106-415",1,0,1
+268,"Sinus Osteotomes Concave Curved Variable sizes","AR 106-421-425",1,0,1
+269,"Sinus Osteotomes Concave Straight Variable sizes","AR 106-421-425-1",1,0,1
+270,"Sinus Osteotomes Convex Straight Variable Sizes","AR 106-475-479",1,0,1
+271,"Sinus Osteotomes Curved Convex Variable Sizes","AR 106-480-484",1,0,1
+272,"13KT/G Periosteal Elevator 10 mm Hollow Handle","AR 106-070H",1,0,1
+273,"Buser Periosteal Elevator 18cm/10 mm Hollow Handle","AR 106-049H",1,0,1
+274,"Molt Periosteal Elevator 18.5cm/10 mm Hollow Handle","AR 106-053H",1,0,1
+275,"P24G/SC 26 Periosteal Elevator 17.5cm/10 mm Hollow Handle","AR 106-050H",1,0,1
+276,"Periosteal Elevator Goldman Fox","AR 103-419",1,0,1
+277,"Periosteal Elevator Seldin #23",106-131,1,0,1
+278,"Prichard Periosteal Elevator 19cm/10 mm Hollow Handle","AR 106-051H",1,0,1
+279,"Williger Periosteal Elevator 16cm","AR 103-438",1,0,1
+280,"Bruening Tongue Depressor 19 cm","AR 103-189",1,0,1
+281,"Cheek Retractor Stainless steel Double Ended","AR 103-024",1,0,1
+282,"Farabeuf Retractor 12cm Handheld","AR 103-037",1,0,1
+283,"Adson Brown Tissue Forceps 12 cm",102-032,1,0,1
+284,"Adson Micro Dressing Forceps 12 cm","AR 102-039",1,0,1
+285,"Langenback Retractor 21cm Variable Blade size","AR 103-225",1,0,1
+286,"Debakey Tissue Forceps 15 cm Curved","AR 102-086",1,0,1
+287,"Dressing Forceps Serrated Straight 12cm","AR 04-002",1,0,1
+288,"Middledorf Retractors 21cm &amp; 23cm","AR 103-220",1,0,1
+289,"Dressing Forceps Serrated Straight 14cm","AR 04-003",1,0,1
+290,"Dressing Forceps Serrated Straight 16cm","AR 04-005",1,0,1
+291,"Endo locking Tweezers 15cm","AR 102-087",1,0,1
+292,"Lip Cheek Minnesota Retractor Large",106-248,1,1,1
+293,"London College Tweezers 15 cm Serrated","AR 102-074",1,0,1
+294,"Sternberg Retractor Lip and Cheek 14cm","AR 103-182",1,0,1
+295,"Vestibulum Retractor Universal 14cm","AR 104-856",1,0,1
+297,"Round pointed Surgical Tweezers TC 18cm","Ar 102-009",1,0,1
+298,"Ace Mini Blade Scalpel Handle Micro",106-336,1,0,1
+299,"2N Nabers Periodontal Probe 3-3-3","AR 102-150",1,0,1
+300,"Dental Instruments, Round Scalpel Handle Straight",106-325,1,0,1
+302,"Marquis Probe CP 12","AR 102-157",1,0,1
+303,"Dental Instruments, Scalpel Handle No. 3","AR 103-001",1,0,1
+304,"Dental Instruments, Scalpel Handle No. 4","AR 103-005",1,0,1
+305,"Round Pattern Adjustable Scalpel Handle","AR 106-334",1,0,1
+306,"Marquis Probe CP11 Coded 3-6-8-11","AR 102-152-4",0,0,1
+307,"Perio Probe Explorer William","AR 102-151",0,0,1
+308,"Periodontal Probe Marking 2-2-2-2","AR 102-156",1,0,1
+309,"Round Scalpel Handle Curved","AR 106-326",1,0,1
+310,"WHO Probe Ball Point","AR 102-152",1,0,1
+311,"William Perio Probe Explorer Anatomical",102-151H,1,0,1
+312,"William Perio Probe Standard coded","AR 102-154",1,0,1
+313,"Scalpel Handle No. 3 For Marking","AR 106-327",1,0,1
+314,"Dental Diagnostic Explorer DG16",102-1345-3,1,0,1
+315,"Dental Diagnostic Explorer Fig 17 S.End",102-1324,1,0,1
+316,"Dental Implant Bone Mixing Bowl","AR 107-279",1,0,1
+317,"Dental Diagnostic Explorer Fig 23 S. End",102-1327H,1,0,1
+318,"Dental Diagnostic Explorer Fig 9 Single End","AR 102-130H",1,0,1
+319,"Sinus Instrument Fig. 1",106-059-1H,1,0,1
+320,"Crown Remover Automatic 5 Attachments","AR 103-248",1,0,1
+322,"Crown Remover Manual 5 Attachments","Ar 103-249",1,0,1
+323,"Sinus Instrument Fig. 2",106-059-2,1,0,1
+324,"Dental Instruments Scaler Tray 10pcs","AR 107-193-1",1,0,1
+325,"Dental Crown Remover Spreader Fig2","AR 103-241",1,0,1
+326,"Sinus Instrument Fig. 3",106-059-3H,1,0,1
+327,"Dental Crown Spreader Curved Fig3","AR 103-242",1,0,1
+328,"Dental Instruments Scaler Tray 5pcs","AR 107-193",1,0,1
+329,"Sinus Instrument Fig. 4",106-059-4H,1,0,1
+330,"Instruments Kidney Dish 25cm","AR 107-241",1,0,1
+331,"Dental Crown Spreader Remover Fig1","AR 103-240",1,0,1
+332,"Meriam Tweezers 16 cm &ndash; Diagnostic","AR 103-058",1,0,1
+333,"Dental Crown Spreader Straight Fig4","AR 103-243",1,0,1
+334,"Dental Diagnostic Explorer TU17/23",102-138,1,0,1
+335,"Stainless Steel Instruments Box","AR 107-205",1,0,1
+336,"Temporary Crown Removers Forceps 17cm","AR 100-337",1,0,1
+337,"Dental Examination Explorer 408 S.End",102-1320,1,0,1
+338,"Dental Examination Explorer DG16/408",102-139,1,0,1
+339,"Dental Explorer 23/408 Hollow Handle",102-120H,1,0,1
+340,"Articulating Paper Forceps Curved 12cm","AR 104-478",1,0,1
+341,"Dental Explorer Fig 23 Single End",102-1325,1,0,1
+342,"Bond Bracket Holder Tweezers 14cm","AR 75-202",1,0,1
+343,"Dental Explorer TU17/23 Hollow Handle",102-124H,1,0,1
+344,"Explorer Double ended Solid Octagonal Handle.",102-124,1,0,1
+345,"Buccal Tube Holder Tweezers 12cm","AR 105-002",1,0,1
+346,"Explorer Double ended Solid Octagonal Handle",102-122,1,0,1
+347,"Explorer Double ended Solid Octagonal Handle.",102-120,1,0,1
+348,"Dental Sterilization Cassettes Hold 5 Pcs","AR 107-145-1",1,0,1
+349,"Impression Trays Perforated Lower Jaw All Sizes",107-011,1,0,1
+350,"Explorer Single end Solid Octagonal Handle.",102-125,1,0,1
+351,"Soft Brushing Kit PRF Process Implant",SB100-001,1,0,1
+352,"Deluxe Bracket Holder Orthodontic Tweezers 14cm","AR 105-007",1,0,1
+353,"Detachable Sterilisation Cassettes 5 Pcs","AR 107-145",1,0,1
+354,"Dental Mouth Mirror Handle 10mm Hollow","AR 102-019H",1,0,1
+355,"Direct Bond Bracket Tweezers 12cm",105-014,1,0,1
+356,"Mouth Mirror Handle 10mm Hexagonal Hollow","AR 102-016",1,1,1
+357,"Bone Surgical Curette lucas 84 2mm",102-818,0,0,1
+358,"Mouth Mirror Handle 10mm Hollow","AR 102-015-1",1,0,1
+359,"Detachable Sterilisation Cassettes Trays 20 Pcs","AR 107-146",1,0,1
+360,"Mouth Mirror Handle 6mm Anatomical Hollow","AR 102-013-3",1,0,1
+361,"Miller Articulating Paper Forceps 12cm",52666,1,0,1
+362,"Bone Surgical Curette lucas 86 3mm",102-820,0,0,1
+363,"Instruments Sterilization Cassettes Hold 10 Pcs","AR 107-147",1,0,1
+364,"Mouth Mirror Handle 6mm Solid","AR 102-013-1-2",1,0,1
+366,"Adson Kocher Tissue Forceps 11cm",102-040,1,0,1
+367,"Mouth Mirror Handle Cone-Socket 8mm &Oslash;","AR 102-013-4",1,0,1
+368,"Adson Micro Tissue Forceps 12cm",102-041,1,0,1
+369,"Sterilisation Cassette 20 Pcs Premium Detachable",107-146L,1,0,1
+370,"Mouth Mirror Plastic Handle Blue","AR 102-028",1,0,1
+371,"Atraumatic DeBakey Tissue Forceps 15cm","AR 102-089",1,0,1
+372,"Mouth Mirror Plastic Handle Green","AR 103-030",1,0,1
+373,"Impression Trays Solid Upper Jaw All Sizes",abc,1,0,1
+374,"Mouth Mirror Solid Handle 6mm Octagonal","AR 102-013",1,0,1
+375,"Impression Trays Perforated Upper Jaw All Sizes",107-005,1,0,1
+376,"Plastic Mouth Mirror Handle Orange","AR 103-029",1,0,1
+377,"Dental Mouth Mirror No 5 Plane 10pcs","AR 102-007",1,0,1
+378,"Bone Surgical Curette lucas 88 4mm",106-090H,0,0,1
+379,"Impression Trays Solid Lower Jaw All sizes",asd,1,0,1
+380,"Mirror Head Cone Socket No 5 Plane 10pcs","AR 102-007-1",1,0,1
+381,"Hemostatic Tissue Forceps 12cm Curved",05-096,1,0,1
+382,"Root Canal spreader 0.3mm","AR 102-492",1,0,1
+383,"Hemostatic Tissue Forceps 12cm Straight",05-095,1,0,1
+384,"Mirror Head Front Surface No 5 10pcs","AR 102-009-2",1,0,1
+385,"Hemingway Surgical Curette 2.4mm",103-464,0,0,1
+386,"Mouth Mirror Cone Socket No 4 Plane 10pcs","AR 102-004-1",1,0,1
+387,"Root Canal spreader 0.4mm","AR 102-493",1,0,1
+388,"Mouth Mirror Front Surface No 4 10pcs","AR 102-006",1,0,1
+389,"Mouth Mirror No 4 Plane Surface 10pcs","AR 102-004",1,0,1
+391,"Root Canal spreader 0.5mm","AR 102-494",1,0,1
+392,"Colombia 4R4L Examination Set Anatomical",110-121,1,0,1
+393,"Elastromeric Ligature Placing Forceps 14cm",105-228,1,0,1
+394,"Dental Diagnostic Kit Set Premium",110-117,1,0,1
+395,"Surgical Bone Curette lucas 85 2.5mm",102-819,1,0,1
+396,"Dental Examination Kit Set of 4 Basic","AR 110-110-1",1,0,1
+397,"Anisworth Rubber dam punch forceps",103-271,1,0,1
+398,"Mathieu Needle Holder 14cm Ortho",103-141,1,0,1
+399,"Semken Taylor Forceps Serrated 12cm Straight","AR 102-051-1",1,0,1
+400,"Rubber Dam Clamp Forceps Brewer",103-275,1,0,1
+401,"Williger Bone Curette 13.5 cm","AR 103-451",1,0,1
+402,"Dental Examination Kit Set Premium",110-110,1,0,1
+403,"Mathieu Needle Holder 16cm Ortho",103-139,1,0,1
+404,"Rubber Dam Clamp Forceps Ivory Light Weight",103-274,1,0,1
+405,"Dental Blow Pipe Suction Cannula 3mm/18cm","AR 100-315",1,0,1
+406,"Mayo Hegar Needle Holder 14 cm",103-134,1,0,1
+407,"Dental Blow Pipe Suction Cannula 4mm/18cm","AR 100-316",1,0,1
+408,"Rubber Dam Clamp Forceps Stokes",103-276,1,0,1
+409,"Dental Blow Pipe Suction Cannula 5mm/18cm","AR 100-317",1,0,1
+410,"Mayo Hegar Needle Holder 16 cm",103-131,1,0,1
+411,"Semken Tissue Forceps Serrated 12cm Curved","AR 102-052-1",1,0,1
+412,"Rubber Dam Frame Adult 9&times;10",103-267,1,0,1
+413,"Frazier Suction Tube Titanium Tip 2mm","AR 100-322",1,0,1
+414,"Rubber dam punch forceps ivory",103-272,1,0,1
+415,"Implant Tissue Punch 3mm Curved","AR 106-290-2",1,0,1
+416,"Stieglitz Splinter Forceps Curved 15cm","AR 102-115",1,0,1
+417,"Dentist Diagnostic Kit Set Premium",110-118,1,0,1
+418,"Barraquer Needle Holder TC 15cm Straight","AR 103-143-1",1,0,1
+419,"Stieglitz Splinter Forceps Straight 15cm","AR 102-114",1,0,1
+420,"Perio Probe Explorer Examination Set Anatomical",110-120,1,0,1
+421,"Rubber Dam Clamps",103-267-13,1,0,1
+422,"Implant Tissue Punch 3mm Straight","AR 106-290-1",1,0,1
+423,"Sickle Scaler H6H7 Examination Set Anatomical",110-118-1,1,0,1
+424,"Castroviejo Needle Holder TC 14cm Curved","Ar 103-149",1,0,1
+425,"Implant Tissue Punch 4mm Angled","AR 106-290-4",1,0,1
+426,"Castroviejo Needle Holders Straight TC 14cm","Ar 103-145",1,0,1
+427,"Tissue Forceps 15 cm Teeth 1&times;2 &ndash; Tweezers","AR 102-056",1,0,1
+428,"Implant Tissue Punch 4mm Straight","AR 106-290-3",1,0,1
+429,"Tissue Forceps Semken Taylor 12cm Curved","AR 102-053-1",1,0,1
+430,"Rubber Dam Clamps Set of 13",103-267-1,1,1,1
+431,"Implant Tissue Punch 5mm Angled","AR 106-290-6",1,0,1
+432,"Crile Wood Needle Holder TC 16cm Straight","Ar 103-134-1",1,0,1
+433,"Implant Tissue Punch 5mm Straight","AR 106-290-5",1,0,1
+434,"Mosquito Artery Forceps 16cm Curved",S05-114,1,0,1
+435,"Crile-Wood Needle Holder TC 16cm Curved","Ar 103-135",1,0,1
+436,"Frahm Wax Carver and Modelling Instrument","AR 102-520-4",1,0,1
+437,"Implant Tissue Punch 6mm Angled","AR 106-290-8",1,0,1
+438,"Mosquito Artery Forceps 16cm Straight",S05-115,1,0,1
+439,"Gillies Needle Holder Scissors TC 16cm",11-116,1,0,1
+440,"Implant Tissue Punch 6mm Straight","AR 106-290-7",1,0,1
+441,"Wax Carver and Modelling Instrument","AR 102-522",1,0,1
+442,"Mosquito Artery Forceps Curved 10cm","AR 103-169",1,0,1
+443,"Hosel Needle Holder TC 20cm Straight","AR 103-513",1,0,1
+444,"Mosquito Artery Forceps Curved 12cm","AR 103-165",1,0,1
+445,"Mosquito Artery Forceps Curved 14cm","AR 103-162",1,0,1
+446,"Mosquito Artery Forceps Straight 10cm","AR 103-163",1,0,1
+447,"Kalt Needle holder TC 13cm Straight","AR 103-506",1,0,1
+448,"Mosquito Artery Forceps Straight 12cm","AR 103-164",1,0,1
+449,"Langenbeck Needle Holder TC 16cm Straight","AR 103-511",1,0,1
+450,"Amalgam Carrier Dispenser Gun 45&deg;",103-351,1,0,1
+451,"Lichtenberg Needle Holder TC 17cm","AR 103-512",1,0,1
+452,"Amalgam Carrier Dispenser Gun 90&deg;","AR 103-352",1,0,1
+453,"Amalgam Carrier Double Ended Large","AR 102-340",1,0,1
+454,"Mathieu Needle Holder TC 14cm","Ar 103-140",1,0,1
+455,"Wax Carver and Modelling Instruments","AR 102-520-6",1,0,1
+456,"Gracey Curette 1-2",102-896H,1,0,1
+457,"Mathieu Needle Holder TC 17cm",103-153,1,0,1
+458,"Gracey Curette 1/2 Gold Plated",102-896G,1,0,1
+459,"Amalgam Carrier Double Ended Mini","AR 102-339",1,0,1
+460,"Dental Instrument, Fahnenstock 17 cm","AR 102-994",1,0,1
+461,"Dental Instrument, Fahnenstock 17 cm","AR 102-995",1,0,1
+462,"Mayo Hegar Needle Holder TC 13cm",103-130,1,0,1
+463,"Gracey Curette 1/2 Titanium Blue Coated","AR 102-902G-1-1",1,0,1
+464,"Dental Instrument, Gritmann 16 cm","AR 102-1005",1,0,1
+465,"Gracey Curette 11-12",102-901H,1,0,1
+466,"Dental Instrument, Very Flexible 19 cm",102-1008,0,0,1
+467,"Amalgam Well Stainless Steel","AR 102-340-1",0,0,1
+468,"Mayo-Hegar Needle Holder TC 15cm","Ar 103-131-1",1,0,1
+469,"Gracey Curette 11/12 Gold Plated","AR 102-901G",0,0,1
+470,"Dental Instruments, Lichtenstein","AR 102-1011",0,0,1
+471,"Plaster Cutting Pliers",103-482,0,0,1
+472,"Ball Burnishers Double Ended Hollow Handle 10mm","AR 102-478H",0,0,1
+473,"Gracey Curette 11/12 Titanium Blue Coated","AR 102-902G-1-2-2-1",0,0,1
+474,"Band Pusher Mershon 14cm",103-244,1,0,1
+475,"Needle Holder Castroviejo TC 18cm Curved",103-144,1,0,1
+476,"Gracey Curette 13-14",102-902H,0,0,1
+477,"Ball Burnishers Double Ended Hollow Handle 10mm","AR 102-477H",0,0,1
+478,"Cement Spatula 5.0mm Anatomical Handle 10mm Hollow","AR 102-485H",0,0,1
+479,"Band Seating in Plastic 13cm","AR 105-045",1,0,1
+480,"Cement Spatula 5.0mm Solid Octagonal Handle",102-485,0,0,1
+481,"Ball Burnishers Double Ended Octagonal Solid Handle",102-478,0,0,1
+482,"Gracey Curette 13/14 Gold Plated","AR 102-902G",0,0,1
+483,"Cement Spatula 5mm Round Hollow Handle","AR 102-485p",0,0,1
+484,"Cement Spatula 6.0mm Anatomical Handle 10mm Hollow",102-484H,0,0,1
+485,"Bone Bracket Gauge","AR 105-021",1,0,1
+486,"Ball Burnishers Double Ended Octagonal Solid Handle",102-477,0,0,1
+487,"Dental Ball Burnisher Filling Instrument","AR 102-650",0,0,1
+488,"Cement Spatula 6.0mm Solid Octagonal Handle",102-484,0,0,1
+489,"Needle Holder Castroviejo TC 18cm Straight",103-150,1,0,1
+490,"Bracket positioning gauge .018&Prime; slot","AR 105-022",1,0,1
+491,"Dental Ball Burnisher Westcott 1.6/2mm","AR 102-468",0,0,1
+492,"Dental Filling Ball Burnishers 0.8/1mm","AR 102-301",0,0,1
+493,"Cement Spatula 6mm Round Hollow Handle","AR 102-484p",0,0,1
+494,"Gracey Curette 13/14 Titanium Blue Coated","AR 102-902G-1-2-2-1-1",0,0,1
+495,"Dental Filling Ball Burnishers 1.2/1.6mm","AR 102-302",0,0,1
+496,"Needle holder Crile Wood TC 15.5cm Curved","AR 103-126",1,0,1
+497,"Bracket positioning gauge .022&Prime; slot",105-023,1,0,1
+498,"Dental Filling Ball Burnishers 2.0/2.5mm","AR 102-303",0,0,1
+499,"Gracey Curette 3-4",102-897H,0,0,1
+500,"Gracey Curette 3/4 Gold Plated",102-897G,0,0,1
+501,"Dental Filling Burnisher Spatula 1.6/2.5mm","AR 102-358",0,0,1
+502,"Needle Holder Toennis TC 18cm Straight","AR 103-514",1,0,1
+503,"Dental Instruments, Tweil-on Elastic Module Instrument","AR 105-037",1,0,1
+504,"Dental Filling Burnisher Spatula 2.5/3mm","AR 102-359",0,0,1
+505,"Gracey Curette 3/4 Titanium Blue Coated","AR 102-902G-1",0,0,1
+506,"Olsen Hegar Needle holder in TC 14cm","AR 103-128",1,0,1
+507,"Distal &amp; Bending Instrument",105-049,1,0,1
+508,"Dental Filling Instrument Hopson 2.0/2.5mm","AR 102-394",0,0,1
+509,"Periodontal sickle Scaler Orban Knives 102-127H",102-127H,1,0,1
+510,"Gracey Curette 5-6",102-898H,0,0,1
+511,"Dental Filling Instrument Ladmore 1.2/1.6mm","AR 102-381",0,0,1
+512,"Dental Filling Instrument Mortonson 1/1.2mm","AR 102-399",0,0,1
+513,"Furrer Copper Ring Removing Forceps 16cm",105-236,1,0,1
+514,"Dental Filling Ladmore Flat 1.5/2.5mm","AR 102-409",0,0,1
+515,"Gracey Curette 5/6 Gold Plated",102-989G,0,0,1
+516,"Scaler Crane Kaplan 102-184H",102-184h,1,0,1
+517,"Ligature Tucker 17.5 cm",108-005,1,0,1
+518,"Dental Restorative Ball Burnishers 1.7/2.5mm","AR 102-334",0,0,1
+519,"Gracey Curette 5/6 Titanium Blue Coated","AR 102-902G-1-2",0,0,1
+520,"Scaler Krikland Knives 102-128H",asds,1,0,1
+521,"Gracey Curette 7-8",102-899,0,0,1
+522,"Restorative Hopson Ball Burnishers 2.0/2.5mm","AR 102-394H",0,0,1
+523,"Utility Ligature Tucker 17.5 cm",105-060,1,0,1
+524,"Gracey Curette 7/8 Gold Plated",102-899G,0,0,1
+525,"Filling Instrument amalgam Condenser double ended 1.2 &amp; 1.5 mm",102-395H,0,0,1
+526,"Orthodontic Pliers Dental, Adam Maxi Plier Fig. 64","AR 105-153",1,0,1
+527,"Modelling Instruments -mitchell Model Octagonal Solid Handle","AR 102-524",1,0,1
+528,"Gracey Curette 7/8 Titanium Blue Coated","AR 102-902G-1-2-1",0,0,1
+529,filling-instrument-amalgam-condenser-double-ended-1-5-2-5-mm,102-396H,0,,1
+530,"Filling Instrument amalgam Condenser double ended 1.5 &amp; 2.5 mm","AR 102-396",0,0,1
+531,"Orthodontic Pliers Dental, Aderer 3 Jaw Plier","AR 105-139",1,0,1
+532,"Periodontal Scaler H6/H7 Hollow Handle 6mm",102-951,1,0,1
+533,"Periodontal sickle Scaler Anatomical Hollow Handle AR 102-177H","AR 102-177H",1,0,1
+534,"Filling Instrument amalgam Condenser double ended 2.5 &amp; 3.5 mm",102-396,0,0,1
+535,"Orthodontic Pliers Dental, Ball Hook Crimping Plier","AR 105-077",1,0,1
+536,"Gracey Curette 9-10",102-900H,0,0,1
+537,"Dental Restorative Composite Set 6pcs",110-119,1,0,1
+538,"Heidman Spatula Composite plasing filling 2.5mm Anatomical Handle 10mm Hollow",102-426H,0,0,1
+539,"Heidman Spatula Composite plasing filling 2.5mm Solid Octagonal Handle",102-426,0,0,1
+540,"Heidman Spatula Composite plasing filling 3.0mm Solid Octagonal Handle","AR 102-438",0,0,1
+541,"Gracey Curette 9/10 Gold Plated",102-900G,0,0,1
+542,"Heidman Spatula Composite plasing filling 3.2mm",102-427H,0,0,1
+543,"Gracey Curette 9/10 Titanium Blue Coated","AR 102-902G-1-2-2",0,0,1
+544,"Dental Implant Surgery kit 25 Instruments","AR 110-032",1,0,1
+545,"Heidman Spatula Composite plasing filling 3.2mm Solid Octagonal Handle",102-427,1,0,1
+546,"Gracey Curettes Gold Plated 1/2 to 13/14","AR 102-896",0,0,1
+547,"Gracey Curettes Titanium Blue 1/2 to 13/14","AR 102-896-1",0,0,1
+548,"Dental Excavators 1.3/1.5mm Round Spoon","AR 102-262",0,0,1
+549,"Periodontal sickle Scaler Anatomical Hollow Handle AR 102-185H","AR 102-185H",0,0,1
+550,"Dental Excavators 1.3mm Round Spoon","AR 102-758",0,0,1
+551,"Extraction Forceps Plasma Black Set of 10","AR 110-018",1,0,1
+552,"Dental Excavators 1.4/1.6mm Round Spoon","AR 102-263",0,0,1
+553,"Extraction Forceps Set of 10 Anatomical Handle","AR 110-031A",1,0,1
+554,"Periodontal sickle Scaler Cumine Octagonal Solid Handle","AR 102-177",0,0,1
+555,"Periodontal sickle Scaler Octagonal Solid Handle AR 102-171","AR 102-171",0,0,1
+556,"Periodontal sickle Scaler Octagonal Solid Handle AR 102-184","AR 102-184",0,0,1
+557,"Periodontal sickle Scaler Octagonal Solid Handle AR 102-185","AR 102-185",0,0,1
+558,"Extraction Set of 10 Extracting Forceps","AR 110-008",1,0,1
+559,"Scaler Colombia Universal 13/14 Periodontal",102-209,0,0,1
+560,"Extraction Set of 10 Extracting Forceps Standard","AR 110-006",1,0,1
+561,"Scaler Colombia Universal 4R/4L Periodontal",102-208,0,0,1
+562,"Dental Excavators 1.6/1.8mm Round Spoon","AR 102-264",0,0,1
+563,"Dental Excavators 1.7mm Round Spoon","AR 102-490",0,0,1
+565,"Sickle Scaler 102-171H",102-171H,0,0,1
+566,"Paediatric Extracting Forceps Extraction Set of 7","AR 110-007",1,0,1
+567,"Sickle Scaler 102-193H",102-193H,0,0,1
+568,"Sickle Scaler 102-195H",102-195h,0,0,1
+569,"Sickle Scaler Towner jacquette U15/33","AR 102-191H",0,0,1
+570,"Dental Excavators 1mm Octa Handle",102-300,0,0,1
+571,"Dental Excavators 2.3mm Round Spoon","AR 102-491",0,0,1
+572,"Root Elevators luxating Set of 7 Sharp","AR 104-062",1,0,1
+573,"Dental Excavators 2.5mm Octa Handle","AR 102-297",0,0,1
+574,restorative-excavators-1-5mm-oval,"AR 102-296p",0,,1
+575,"Restorative Excavators 1mm Oval Spoon","AR 102-295p",0,0,1
+576,restorative-excavators-2mm-oval-spoon,102-297p,0,0,1
+577,"Set of 7 Gracey Curettes 1 to 14","AR 110-005",1,0,1
+578,"Set of 7 Gracey Curettes 1 to 14 Gold Plated","AR 110-005-G",1,0,1
+579,"Set of 7 Gracey Curettes 1 to 14 Titanium Blue Coated","AR 110-005-Tit",1,0,1
+580,"Osteotomes Sinus lift Concave Curved Set of 5","AR 110-003",1,0,1
+581,"Osteotomes Sinus lift Concave Straight Set of 5","AR 110-001",1,0,1
+582,"Osteotomes Sinus lift Convex Curved Set of 5","AR 110-002",1,0,1
+583,"Osteotomes Sinus lift Convex Straight Set of 5","AR 110-004",1,0,1
+584,"Dental Instruments, Towel Clamp 12 cm",103-173,0,0,1
+585,"Aspirating Syringe Thumb Ring Style 2.2 ml",100-302,0,1,1
+586,"Citoject Intraligamentary Dental Syringe 2.2ml","AR 100-329-1",0,0,1
+587,"Paediatric Extracting Forcep for children-Klein-","AR 101-102",1,0,1
+588,"Dental Cartridge Syringe Crutch Handle 2.2 ml",100-313,0,0,1
+589,"Paediatric Extracting Forcep for children-Klein-Lower Incisors","AR 100-105",1,0,1
+590,"Dental Citoject Intraligamentary Syringe 2.2ml","AR 100-329",0,0,1
+591,"Paediatric Extracting Forcep for children-Klein-Lower Molars","AR 100-106",1,0,1
+592,"Intraligamental Dental Syringe 2.2 ml","AR 100-288",0,0,1
+593,"Intraligamentary Dental Syringe cartridge 2.2 ml",100-284,0,0,1
+594,"Paediatric Extracting Forcep for children-Klein-Lower Roots",ksd,1,0,1
+595,"Beyer Bone Rongeurs 2.5mm Curved 18cm",100-251,0,0,1
+596,"Paediatric Extracting Forcep for children-Klein-Upper Incisors","AR 100-101",1,0,1
+597,"Bluementhal Bone Rongeurs 15cm 30&deg;",100-240,0,0,1
+598,"Bluementhal Bone Rongeurs 45&deg; 15cm",100-239,0,0,1
+599,"Bluementhal Bone Rongeurs 15cm 90&deg;",100-238,0,0,1
+600,"Paediatric Extracting Forcep for Children-Klein-Upper Molars","AR 101-103",1,0,1
+601,"Cleveland Bone Rongeurs 14cm Curved",100-274,0,0,1
+602,"Friedman Bone Rongeurs 2.5mm Curved",100-241,1,0,1
+603,"Kerrison Bone Rongeur 2mm Bite15cm",100-261,0,0,1
+604,"Paediatric Extracting Forcep for children-Klein-Upper Roots","AR 101-104",1,0,1
+605,"Friedman Bone Rongeurs 2mm S Curved Micro",100-243,0,0,1
+606,"Atraumatic Extraction Forceps F1 Upper Universal Adult",35-348,1,0,1
+607,"Friedman Bone Rongeurs 2mm Micro",100-244,0,0,1
+608,"Atraumatic Extraction Forceps Lower F2 Universal Adult",75-349,1,0,1
+609,"Friedman Bone Rongeurs 2mm 90&deg; Micro",100-247,0,0,1
+610,"Pediatric Extraction Forceps Lower F2 Universal",75-345,1,0,1
+611,"Ruskin Mini Bone Rongeurs 15 cm Straight","AR 100-256",0,0,1
+612,"Tissue Nippers 13 cm Fine Cutting Tip","AR 106-310",0,0,1
+613,"Pediatric Extraction Forceps Upper F1 Universal",75-344,1,0,1
+614,"Anterior Periotome 2mm Angled Flexitip",EPI-M3C,0,0,1
+615,"Dental Periotome 2mm Cvd Flexitip",EPI-2C,0,0,1
+616,"Dental Periotome 2mm Str Flexitip",EPI-2S,0,0,1
+617,"Dental Periotome 3mm Cvd Flexitip",EPI-3C,0,0,1
+618,"Black Plasma Dental Extracting Forcep No.70",100-097,1,0,1
+619,"Dental Periotome 3mm Str Flexitip",EPI-3S,0,0,1
+620,"Posterior Periotome 2mm Angled Flexitip",EPI-3M2C,0,0,1
+621,"Heidbrink Root Tip Picker Left",430-9,0,0,1
+622,"Heidbrink Root Tip Picker Right",430-10,0,0,1
+623,"Heidbrink Root Tip Picker Straight",430-8,0,0,1
+624,"Root Tip Picker Fig 1 Center 15cm","Ar 101-128",0,0,1
+625,"Root Tip Picker Fig 2 Left 15cm","Ar 101-129",0,0,1
+626,"Extracting Forceps Fig 4 Lower Incisors &amp; Canines",100-004AL,1,0,1
+627,"Root Tip Picker Fig 3 Right 15cm","Ar 101-130",0,0,1
+628,"Luxating Elevator 1.5/3mm Straight Plastic Handle","Ar 101-254",0,0,1
+629,"Extracting Forceps Fig 22 Lower Molars",100-017AL,1,0,1
+630,"Luxating Elevator 2/3mm Straight Plastic Handle","Ar 101-255",0,0,1
+631,"Luxating Elevator 2mm Curved Plastic Handle","Ar 101-247",0,0,1
+632,"Luxating Elevator 2mm Straight Plastic Handle","Ar 101-246",0,0,1
+633,"Extracting Forceps Fig 73 Lower Molars",100-058AL,1,0,1
+634,"Extracting Forceps Fig 99 Lower Molars",100-081AL,1,0,1
+635,"Extracting Forceps Fig 13 Lower Premolars",100-007AL,1,0,1
+636,"Luxating Elevator 3/5mm Straight Plastic Handle","Ar 101-256",0,0,1
+637,"Luxating Elevator 3mm Curved Plastic Handle","Ar 101-249",0,0,1
+638,"Extracting Forceps Fig 33A Lower Roots",100-029AL,1,0,1
+639,"Luxating Elevator 3mm Straight Plastic Handle","Ar 101-248",0,0,1
+640,"Luxating Elevator 5mm Curved Plastic Handle","Ar 101-251",0,0,1
+641,"Root Elevator Lindo Levien 2.5mm Serrated",101-021,0,0,1
+642,"Extracting Forceps Fig 74 Lower Roots",100-064AL,1,0,1
+643,"Root Elevator Lindo Levien 3.5mm Serrated",101-022,0,0,1
+644,"Root Elevator Lindo Levien 4.5mm Serrated",101-023,0,0,1
+645,"Extracting Forceps Fig 79A Lower Wisdom",100-071AL,1,0,1
+646,"Extracting Forceps Fig 1 Upper Incisors &amp; Canines",100-001AL,1,0,1
+647,"Extracting Forceps Fig 2 Upper Incisors &amp; Canines",100-002AL,1,0,1
+648,"Forceps Fig 18A Upper Molars Both Sides",100-012AL,1,0,1
+649,"Forceps Fig 18 Upper Molars Left",100-011AL,1,0,1
+650,"Extracting Forceps Fig 7 Upper Premolars",100-005AL,1,0,1
+651,"Dental Extracting Forceps-Very Fine Upper Premolars Gripping In Depth Fig 31","AR 100-027A",1,0,1
+652,"Extracting Forceps Fig 29 Upper Roots",100-022AL,1,0,1
+653,"Extracting Forceps Fig 30 Upper Roots",100-025AL,1,0,1
+654,"Forceps Fig 49 Fine Upper Roots",100-041AL,1,0,1
+655,"Extracting Forceps Fig 51 Upper Roots",100-042AL,1,0,1
+656,"Forceps Fig 67 Upper Third Molars",100-054AL,1,0,1
+657,"Dental Extracting Meissner Forcep-3mm Small-Fig 1",100-098,1,0,1
+658,"Dental Extracting Meissner Forcep-4mm Medium-Fig 2",100-099,1,0,1
+659,"Dental Extracting Meissner Forcep-6.5mm Large-Fig 3",100-100,1,0,1
+660,"Forceps Fig 17 Upper Molars Right",100-010AL,1,0,1
+661,"Dental Extracting Forceps-Lower Premolars For Children","AR 100-009A",1,0,1
+662,"Extracting Forceps Fig 4 Lower Incisors and Canines",100-004A,1,0,1
+663,"Extraction Forceps Cowhorn Fig 86C Lower Molars",100-076A,1,0,1
+664,"Extraction Forceps Fig 1 Upper Incisors &amp; Canines","AR 100-001",1,0,1
+665,"Dental Extracting Forceps-Lower Incisors Fig 4",100-004,1,0,1
+666,"Extraction Forceps Fig 13 Lower Premolars",100-007A,1,0,1
+667,"Extraction Forceps Fig 13A Lower Incisors &amp; Canines",100-008A,1,0,1
+668,"Dental Extracting Forceps-Lower Molars Fig 22","AR 100-017",1,0,1
+669,"Extraction Forceps Fig 17 Upper Molars",100-010A,1,0,1
+670,"Dental Extracting Forceps-Lower Molars Fig 73","AR 100-058",1,0,1
+671,"Extraction Forceps Fig 18A Upper Molars",100-012A,1,0,1
+672,"Dental Extracting Forceps-Lower Molars Fig 99","AR 100-081",1,0,1
+673,"Dental Extracting Forceps-Lower Premolars Fig 13","AR 100-007",1,0,1
+674,"Apical 303 Root Elevator 3.0mm","Ar 101-011",0,0,1
+675,"Flohr Root Elevator Left 3mm Extraction","Ar 101-014",0,0,1
+676,"Dental Extracting Forceps-Lower Roots Fig 33A","AR 100-029",1,0,1
+677,"Flohr Root Elevators 3mm Right","Ar 101-015",0,0,1
+678,"Dental Extracting Forceps-Lower Roots Fig 74","AR 100-064",1,0,1
+679,"Luxating Root Elevator 3mm Curved Inward","Ar 104-068",0,0,1
+680,"Luxating Root Elevator 3mm Double Curved","Ar 104-069",0,0,1
+681,"Extraction Forceps Fig 21 Lower Molars",100-016A,1,0,1
+682,"Root Elevator Apical 302 3.0mm","Ar 101-010",0,0,1
+683,"Extraction Forceps Fig 18 Upper Molars",100-011A,1,0,1
+684,"Root Elevator Bein 2.5mm Straight",101-234,0,0,1
+685,"Root Elevator Bein 2mm Straight",101-233,1,0,1
+686,"Dental Extracting Forceps-Lower Wisdoms Fig 79 A","AR 100-071",1,0,1
+687,"Extraction Forceps Fig 33L Lower Roots",100-032A,1,0,1
+688,"Extraction Forceps Fig 34 Upper Incisors &amp; Premolars",100-035A,1,0,1
+689,"Extraction Forceps Fig 35 Upper Premolars",100-036A,1,0,1
+690,"Dental Extracting Forceps-Upper Incisors Fig 2","AR 100-002",1,0,1
+691,"Extraction Forceps Fig 36 Lower Premolars",100-037A,1,0,1
+692,"Dental Extracting Forceps-Upper Molars Right Fig 17","AR 100-010",1,0,1
+693,"Extraction Forceps Fig 45 Lower Roots",100-039-1A,1,0,1
+694,"Extraction Forceps Fig 45 SB Lower Roots",100-039A,1,0,1
+695,"Dental Extracting Forceps-Upper Molars, Either side Fig 18A","AR 100-012",1,0,1
+696,"Extraction Forceps Fig 46L Lower Roots",100-040A,1,0,1
+697,"Extraction Forceps Fig 51L Upper Roots",100-044A,1,0,1
+698,"Dental Extracting Forceps-Upper Molars, Left Fig 18","AR 100-011",1,0,1
+699,"Extraction Forceps Fig 51M Upper Roots",100-044-1A,1,0,1
+700,"Extraction Forceps Fig 51Z Upper Roots",100-044-2A,1,0,1
+701,"Extracting Forceps Upper Premolars Fig 7",100-005,1,0,1
+702,"Extraction Forceps Fig 67A Upper Wisdom",100-055A,1,0,1
+703,"Dental Extracting Forceps-Upper Premolars, Gripping in Depth Fig 31","AR 100-027",1,0,1
+704,"Extraction Forceps Fig 67L Upper Wisdom Left",100-056A,1,0,1
+705,"Dental Extracting Forceps-Upper Roots Fig 29","AR 100-022",1,0,1
+706,"Extraction Forceps Fig 67R Upper Wisdom Right",100-057A,1,0,1
+707,"Dental Extracting Forceps-Upper Roots Fig 30",100-025,1,0,1
+708,"Extraction Forceps Fig 7 Upper Premolars",100-005A,1,0,1
+709,"Dental Extracting Forceps-Upper Roots Fig 51","AR 100-042",1,0,1
+710,"Extraction Forceps Fig 8 Upper Premolars",100-006A,1,0,1
+711,"Dental Extracting Forceps-Upper Third Molars Fig 67","AR 100-054",1,0,1
+712,"Dental Extracting Forceps-Very Fine Upper Roots Fig 49",AR100-041A,1,0,1
+713,"Root Elevator Bein 3.5mm Straight",101-236,1,0,1
+714,"Root Elevator Bein 3mm Straight",101-235,1,0,1
+715,"Root Elevator Bein 4mm Straight",101-237,1,0,1
+716,"Root Elevator Bein 5mm Straight",101-238,1,0,1
+717,"Root Elevator Cryer Left #25","Ar 101-067",1,0,1
+718,"Root Elevator Cryer Right #26","Ar 101-068",1,0,1
+719,"Warwick James Left Root Elevator",04-199,1,0,1
+720,"Warwick James Right Root Elevator",04-200,1,0,1
+721,"Warwick James Straight Root Elevator",04-198,1,0,1
+722,"Orthodontic Pliers Dental, Bird Beak Angel Plier","AR 105-132",0,0,1
+723,"Orthodontic Pliers Dental, De La Rosa Arch Forming Plier","AR 105-098",0,0,1
+724,"Orthodontic Pliers Dental, Direct Bond Bracket Removing Plier","AR 105-068",0,0,1
+725,"Orthodontic Pliers Dental, Direct Bond Bracket Removing Plier","AR 105-066",0,0,1
+726,"Orthodontic Pliers Dental, Flat Nose Wire Bending Plier","AR 105-215",0,0,1
+727,"Orthodontic Pliers Dental, Hard Wire Cutter","AR 105-161",0,0,1
+728,"Orthodontic Pliers Dental, Hollow Chop Arch-wire Forming Plier","AR 105-141",0,0,1
+729,"Orthodontic Pliers Dental, How Standard Loght Wire Bending Plier","AR 105-091",0,0,1
+730,"Orthodontic Pliers Dental, Jarabak Loop Forming Plier","AR 105-099",0,0,1
+731,"Orthodontic Pliers Dental, Ligature Forming Plier","AR 105-140",0,0,1
+732,"Orthodontic Pliers Dental, Lingual /Palatal Arch Forming Plier","AR 105-102",0,0,1
+733,"Orthodontic Pliers Dental, Nance Adam Clasp Forming Plier","AR 105-204",0,0,1
+734,"Orthodontic Pliers Dental, Nance Loop Forming Plier","AR 105-097",0,0,1
+735,"Orthodontic Pliers Dental, Tweed Arch Forming Plier","AR 105-104",0,0,1
+736,"Orthodontic Pliers Dental, Tweed Loop Forming Plier","AR 105-096",0,0,1
+737,"Orthodontic Pliers Dental, Tweed Loop Forming Plier","AR 105-095",0,0,1
+738,"Orthodontic Pliers Dental, Universal Dolphine style Plier","AR 105-156",0,0,1
+739,"Orthodontic Pliers Dental, Universal Taper style Plier","AR 105-157",0,0,1
+740,"Orthodontic Pliers Dental, Waldsachs Wire Bending and Cutting Plier","AR 105-158",0,0,1
+741,"Orthodontic Pliers Dental, Weingart Utility Plier","AR 105-085",0,0,1
+742,"Orthodontic Pliers Dental, Wire Bending &amp; Loop Forming Plier","AR 105-244",0,0,1
+743,"Aderer 3 Jaw Pliers Premium",105-139,0,0,1
+744,"Orthodontic Bird Beak Pliers Premium",105-089,0,0,1
+745,"Cinch Back Hammer Head Pliers",105-144,0,0,1
+747,"Orthodontic De La Rosa Pliers Premium",105-098,0,0,1
+748,"Bracket Remover Pliers Angled Premium",105-067,0,0,1
+749,"Direct Bond removing Pliers Straight 105-066",AR105-066,0,0,1
+750,"Light Wire Bending and Cutting Pliers TC 105-090","AR 105-090",0,0,1
+751,"Long Beak Light wire Pliers 105-096",105-096,0,0,1
+752,"Nance Loop Forming Pliers 105-097",105-097,0,0,1
+753,"Orthodontic Adams Pliers 105-15",105-153,0,0,1
+754,"Posterior Band removing Pliers (Long) 105-068",105-068,0,0,1
+755,"Rounded Jaw Wire Bending Pliers 105-212",105-212,0,0,1
+756,"Tweed Arch Forming Pliers 105-104",105-104,0,0,1
+757,"Weingart Utility pliers 105-085",105-085,0,0,1
+758,"Wire Bending And Loop Forming Pliers 105-224",105-224,0,0,1
+759,"Young Pliers 105-216",105-216,0,0,1
+760,"Distal End Cutter TC","AR 105-081",0,0,1
+761,"Orthodontic Pliers Dental, Hard Wire Cutter TC","AR 105-162",0,0,1
+762,"Orthodontic Pliers Dental, Hard Wire Cutter TC","AR 105-159",0,0,1
+763,"Pin &amp; Ligature Soft Wire Cutter TC","AR 105-081-1",0,0,1
+764,"Extraction Forceps Fig 22 Lower Molars",100-017A,0,0,1
+765,"Extraction Forceps Fig 49 Upper Roots",100-041Aa,0,,1
+766,"Mosquito Artery Forceps Straight 14cm","AR 103-162-1",0,0,1
+767,"Dental Excavators 2.5mm Oval Spoon","AR 102-297H",1,,1
+768,"Dental Excavators 2mm Hollow Handle","AR 102-300H",1,,1
+769,"Dental Excavators 2mm Octa Handle","AR 102-296",0,,1
+770,"Extraction Forceps Fig 29 Upper Roots",100-022A,1,,1
+771,"Extraction Forceps Fig 30 Upper Roots",100-025A,0,0,1
+772,"Extraction Forceps Fig 31 Upper Premolars",100-027A,0,,1
+773,"Extraction Forceps Fig 33 Lower Roots",100-028A,0,,1
+774,"Extraction Forceps Fig 33A Lower Roots",100-029A,0,,1
+775,"Extraction Forceps Fig 49 Upper Roots",100-041A,0,,1
+776,"Extraction Forceps Fig 51 Upper Roots",100-042A,0,0,1
+777,"Luxating Root Elevator 3mm Curved","Ar 104-066",0,0,1
+778,"Perio Probe H6H7 Scaler Examination Set",110-122,0,0,1
+780,"William Probe Explorer  Examination Set",110-123,1,0,1
+781,"Minnesota Retractor  Small","AR 106-247",1,0,1
+782,"Explorer CP12 Probe DG16  Examination Set",110-124,1,0,1
+783,"William Perio Probe DG16 Examination Set",110-125,1,0,1
+784,"Dental Endo Explorer DG16",102-145-3H,1,0,1
+785,"Dental Examination Explorer 408 DG16",102-139H,1,0,1
+786,"Aspirating Syringe CW type Premium 2.2 ml",100-302P,0,0,1
+787,"Aspirating Dental Syringe A Type 2.2 ml",100-297,0,0,1
+788,"Endodontic Root Canal spreader 0.3mm",102-492H,1,0,1
+789,"Endodontic Root Canal spreader 0.4mm",102-493H,1,0,1
+790,"Endodontic Root Canal spreader 0.5mm",102-494H,1,0,1
+792,"Filling Instrument amalgam Condenser Plain 1.2/1.6",102-313,0,0,1
+793,"Filling Instrument amalgam Condenser Plain 2/2.5mm",102-314,0,0,1
+794,"Filling Amalgam Condenser Plain 0.8/1mm",102-312,0,0,1
+796,"Marquis Probe CP12 Anatomical Handle",102-157H,0,0,1
+797,"Williams Periodontal Probe Single Ended",102-154H,0,0,1
+798,"Heidmann Spatula Flat Plastic 2mm",102-436,0,0,1
+799,"Heidmann Spatula Flat Plastic 2.5mm",102-437,0,0,1
+800,"Heidmann Spatula Flat Plastic 1.5mm",102-435,0,0,1
+803,"Crimpable Archwire Hook Pliers",105-139-1,0,0,1
+804,"Lucas Curette 84 Serrated 2mm",102-818S,0,0,1
+805,"Lucas Curette 85 Serrated 2.5mm",102-819S,0,0,1
+806,"Lucas Curette 86 Serrated 3mm",102-820S,0,0,1
+807,"Heidmann Spatula Flat plastic 2mm",102-432P,0,0,1
+808,"Heidmann Spatula 2.5mm Flat plastic",102-433P,0,0,1
+809,"Heidmann Spatula 3mm Flat plastic",102-434P,0,0,1
+813,"Rubber Dam CLAMP #00 Anterior",Clamp00,1,0,1
+814,"Rubber Dam CLAMP #212 Anterior",Clamp212,1,0,1
+815,"Rubber Dam CLAMP #7 Lower Molars",Clamp7,1,0,1
+816,"Rubber Dam CLAMP #2 Premolars",Clamp2,1,0,1
+817,"Rubber Dam CLAMP #27 Premolars",Clamp27,1,0,1
+818,"Rubber Dam CLAMP #14A Molars",Clamp14A,1,0,1
+819,"Rubber Dam CLAMP #8 Upper Molars",Clamp8,1,0,1
+820,"Rubber Dam CLAMP #208",Clamp208,1,0,1
+821,"Rubber Dam CLAMP #26N Upper Molars",Clamp26N,1,0,1
+822,"Rubber Dam CLAMP #14 Molars",Clamp14,1,0,1
+823,"Rubber Dam CLAMP #205 Large Upper Molars",Clamp205,1,0,1

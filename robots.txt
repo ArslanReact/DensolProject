@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: / checkout /
+Disallow: / onestepcheckout /
+Disallow: / customer /
+Disallow: / customer / account /
+Disallow: / customer / account / login /
+Disallow: / cgi-bin /
+Disallow: / cleanup.php
+Disallow: / apc.php
+Disallow: / memcache.php
+Disallow: / phpinfo.php
+Disallow: /404/
+Disallow: / CVS
+Disallow: / *. Svn $
+Disallow: / *. Idea $
+Disallow: / *. Sql $
+Disallow: / *. Tgz $
+
+sitemap: https://densol.com.au/sitemap.xml

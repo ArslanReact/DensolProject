@@ -1,0 +1,85 @@
+@media (min-width: 1200px){
+
+}
+@media (min-width: 991px){
+    .navigation.sticky .navbar-collapse { float: right;}
+    .follow{float: right;}
+    .navbar-brand{ display: none;}
+    /* .dropdown:hover .megamenu{
+        min-height: 270px;
+      } */
+    /* .dropdown .dropdown-menu{
+        max-height: 0;
+    } */
+    /* .dropdown:hover .dropdown-menu{ max-height: 200px;} */
+    .dropdown.open .dropdown-menu {
+        max-height: 200px;
+      }
+}
+/*========================================================================================
+                                 Start Responsive Style
+========================================================================================*/
+/*==================Large Display==============*/
+
+
+@media (max-width: 1199px){
+    .info-box{ margin-bottom: 30px;}
+    .navbar .navbar-nav a.nav-link{
+        padding-right: 0.55rem;
+    padding-left: 0.55rem;
+    font-size: 13px;
+    }
+
+}
+
+/*==================Medium Display==============*/
+@media (max-width: 991px){
+    .navigation .navbar .navbar-nav .nav-item a {
+        display: block;
+        padding: 5px 10px;
+    }
+    .saleban{ display: none;}
+    .navbar{ padding: 1rem 0rem;}
+    .navbar-light .navbar-toggler{ float: right; background-color: #fff;}
+    .navbar-collapse{ padding-top: 15px;}
+    .footer .info p{ display: block;}
+    footer .col-xl-3{ margin-bottom: 30px;}
+    .large-preview-tabs .nav-pills .nav-item{ width: 100%; }
+    .megamenu{ display: none !important;}
+    .dropdown-menu{ display: none !important;}
+    .caret{ display: none !important;}
+    .dropdown-toggle::after{ display: none !important;}
+    .navigation.sticky .navbar-toggler{ margin-top: 8px;}
+    .navigation.sticky .navbar-brand{ display: none;}
+}
+@media (max-width: 920px){
+.hide-smm{ display: none;}
+.topbar .follow ul.inline-text{ float: right;}
+}
+
+/*============ Tab Display==============*/
+@media only screen and (max-width: 767px){
+    .logo{ padding-bottom: 30px;}
+    .nav-tabs .nav-item{ width: 100%;}
+    .hide-sm{ display: none;}
+}
+
+/*============Small Mobile Display==============*/
+@media (max-width: 575px) {
+    .logo{ text-align: center;}
+
+}
+
+/*============Small Mobile Display==============*/
+@media (max-width: 479px) {
+    .logo{ text-align: center;}
+    .menu-mobile{ right: 6px !important;}
+    .topbar .follow ul.inline-text{ margin: 0 !important;}
+    .tab-product .btn-secondary{ padding: 8px 15px; font-size: 14px;}
+
+}
+
+@media (max-width: 320px) {
+    
+
+}
