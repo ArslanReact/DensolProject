@@ -62,7 +62,7 @@
                     <li><a href="<?php echo getSeoLink("cms",125);?>">Manufacturing Process</a> </li>
                     <li><a href="<?php echo getSeoLink("cms",105);?>">Privacy Policy</a> </li>
                 </ul>
-            </div>
+            </div> 
             <div class="col-xl-2 col-lg-3 col-md-12 col-sm-12">
                 <h5 class="fontwieghtbold fontsize24 m-b-15 pt-md-5">Services</h5>
                 <ul class="list-unstyled bottom-links">

@@ -248,7 +248,7 @@ table td{
   <body>
     <header class="clearfix">
       <div id="logo">
-        <img src="https://ar-instrumed.com.au/files/frontend/images/logo.png">
+        <img src="https://tecmyer.com.au/projects/densol/files/frontend/images/logo.png">
       </div>
       <div id="company">
         <h2 class="name">DENSOL PTY LTD</h2>
@@ -256,7 +256,7 @@ table td{
         <div>6 Moonah Ave. Brookfield 3338</div>
         <div>1300 920 097 / 0433033403</div>
         <div><a href="mailto:sales@densol.com.au">sales@densol.com.au</a></div>
-        <div><a href="www.ar-instrumed.com.au">www.ar-instrumed.com.au</a></div>
+        <div><a href="www.densol.com.au">www.densol.com.au</a></div>
       </div>
       </div>
     </header>

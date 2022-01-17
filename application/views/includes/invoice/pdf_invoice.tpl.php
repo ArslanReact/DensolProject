@@ -183,7 +183,7 @@ table td{
   <body>
     <header class="clearfix">
         <?php 
-$data = file_get_contents('https://ar-instrumed.com.au/files/frontend/images/logo.png');
+$data = file_get_contents('https://tecmyer.com.au/projects/densol/files/frontend/images/logo.png');
 $base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
 ?>
       <div id="logo">
@@ -194,8 +194,8 @@ $base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
         <div>ABN: 81162387368</div>
         <div>6 Moonah Ave. Brookfield 3338</div>
         <div>1300 920 097 / 0433033403</div>
-        <div><a href="mailto:sales@ar-instrumed.com.au">sales@ar-instrumed.com.au</a></div>
-        <div><a href="www.ar-instrumed.com.au">www.ar-instrumed.com.au</a></div>
+        <div><a href="mailto:sales@densol.com.au">sales@densol.com.au</a></div>
+        <div><a href="www.densol.com.au">www.densol.com.au</a></div>
       </div>
       </div>
     </header>

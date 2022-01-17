@@ -633,7 +633,7 @@ class Tecshopping extends MY_Controller {
 			if($this->flexi_cart_admin->update_db_table_data("order_summary", $sql_update, $sql_where)){
 				$this->checkout_complete($oid,$cemail,$payment_id);
 			}else{
-				log_message('ERROR', 'Bank transfer payment return failed(database add data error)');
+				log_message('ERROR', 'Bank transfer Payment Return Failed(database add data error)');
 			}
 		}elseif($payment_id==2){// Paypal
             log_message('DEBUG', 'step5 completed');

@@ -22,7 +22,7 @@
     <div style="position: relative; width: 700px; height: 29.7cm; margin: 0 auto; color: #555555;background: #FFFFFF; font-family: Arial, sans-serif; font-size: 14px; font-family: Tahoma;">
     <header class="clearfix" style="padding: 10px 0;margin-bottom: 5px;border-bottom: 1px solid #AAAAAA;height:90px;">
       <div style="float: left;margin-top: 8px;">
-        <img style="height: 58px;" alt="Intercel" src="https://ar-instrumed.com.au/files/frontend/images/logo.png">
+        <img style="height: 58px;" alt="Intercel" src="https://tecmyer.com.au/projects/densol/files/frontend/images/logo.png">
       </div>
       <div style="float: right;text-align: right;">
         <h2 style="font-size: 1.4em;font-weight: normal;margin: 0;">DENSOL PTY LTD</h2>

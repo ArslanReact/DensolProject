@@ -22,7 +22,7 @@
     <div style="position: relative; width: 700px; height: 29.7cm; margin: 0 auto; color: #555555;background: #FFFFFF; font-family: Arial, sans-serif; font-size: 14px; font-family: Tahoma;">
     <header class="clearfix" style="margin-bottom: 5px;border-bottom: 3px solid #0087c3;height:140px;">
       <div style="float: left;margin-top: 8px;">
-        <img style="height: 100px;" alt="DENSOL" src="https://ar-instrumed.com.au/files/frontend/images/logo.png">
+        <img style="height: 100px;" alt="DENSOL" src="https://tecmyer.com.au/projects/densol/files/frontend/images/logo.png">
       </div>
       <div style="float: right;text-align: right;">
         <h2 style="font-size: 20px;font-weight: 700;margin: 0;color: #4bb851;">DENSOL PTY LTD</h2>

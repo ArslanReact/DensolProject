@@ -913,3 +913,346 @@ DEBUG - 2022-01-15 12:07:58 --> Flexi_cart class already loaded. Second attempt 
 DEBUG - 2022-01-15 12:07:58 --> Flexi_cart class already loaded. Second attempt ignored.
 DEBUG - 2022-01-15 12:07:58 --> Flexi_cart class already loaded. Second attempt ignored.
 DEBUG - 2022-01-15 12:07:58 --> Total execution time: 1.1702
+DEBUG - 2022-01-15 12:47:41 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 12:47:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 12:47:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:42 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:47:43 --> Total execution time: 1.5980
+DEBUG - 2022-01-15 12:54:15 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 12:54:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 12:54:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 12:54:16 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 12:54:16 --> Flexi_cart_lite class already loaded. Second attempt ignored.
+ERROR - 2022-01-15 12:54:16 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\densol\application\views\includes\invoice\order_invoice.tpl.php 326
+DEBUG - 2022-01-15 12:54:16 --> Total execution time: 0.6654
+DEBUG - 2022-01-15 13:04:29 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:04:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:04:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:30 --> Total execution time: 0.9836
+DEBUG - 2022-01-15 13:04:34 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:04:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:04:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:34 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:35 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:35 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:35 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:35 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:04:35 --> Total execution time: 0.8967
+DEBUG - 2022-01-15 13:09:22 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:09:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:09:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:23 --> Total execution time: 0.9957
+DEBUG - 2022-01-15 13:09:30 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:09:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:09:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:09:31 --> Total execution time: 0.8947
+DEBUG - 2022-01-15 13:16:28 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:16:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:16:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:29 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:16:30 --> Total execution time: 1.1753
+DEBUG - 2022-01-15 13:49:01 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 13:49:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 13:49:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:01 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 13:49:02 --> Total execution time: 1.0307
+DEBUG - 2022-01-15 14:05:05 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:05:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:05:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:05 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:05:05 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:06 --> Total execution time: 0.9188
+DEBUG - 2022-01-15 14:05:39 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:05:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:05:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:05:40 --> Total execution time: 0.8776
+DEBUG - 2022-01-15 14:10:40 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:10:40 --> No URI present. Default controller set.
+DEBUG - 2022-01-15 14:10:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:10:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:41 --> Total execution time: 1.0494
+DEBUG - 2022-01-15 14:10:41 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:10:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:10:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:42 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:10:55 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:10:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:10:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:55 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:10:55 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:55 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:55 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:55 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:55 --> Total execution time: 0.8053
+DEBUG - 2022-01-15 14:10:58 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:10:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:10:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:58 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:10:59 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:59 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:59 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:59 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:59 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:10:59 --> Total execution time: 0.8816
+DEBUG - 2022-01-15 14:19:14 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:19:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:19:15 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:15 --> Total execution time: 1.0756
+DEBUG - 2022-01-15 14:19:17 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:19:17 --> No URI present. Default controller set.
+DEBUG - 2022-01-15 14:19:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:19:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:18 --> Total execution time: 0.9743
+DEBUG - 2022-01-15 14:19:18 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:19:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:19:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:19 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:19:27 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:19:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:19:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:19:27 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:19:28 --> Total execution time: 0.8537
+DEBUG - 2022-01-15 14:33:05 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:33:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:33:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:06 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:33:06 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:06 --> Total execution time: 0.8112
+DEBUG - 2022-01-15 14:33:10 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:33:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:33:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:10 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:33:10 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:10 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:10 --> Total execution time: 0.8576
+DEBUG - 2022-01-15 14:33:53 --> UTF-8 Support Enabled
+DEBUG - 2022-01-15 14:33:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-01-15 14:33:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:54 --> Config file loaded: C:\xampp\htdocs\densol\application\config/flexi_cart.php
+DEBUG - 2022-01-15 14:33:54 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:54 --> Flexi_cart class already loaded. Second attempt ignored.
+DEBUG - 2022-01-15 14:33:54 --> Total execution time: 0.8855
