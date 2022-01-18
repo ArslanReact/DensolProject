@@ -42,7 +42,7 @@
 <footer class="footer">
     <div class="col-10 mx-auto mb-md-5">
         <div class="row">
-            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+            <div class="col-xl-4 col-lg-3 col-md-12 col-sm-12">
                 <a href="<?=base_url();?>" class="m-b-25 d-block"><img class="img-fluid" src="<?=base_url();?>files/frontend/images/logo.png" alt="" width="300"></a>
                 <p class="fontsize14 text-white">A company that entails the experience of more than six decades in manufacturing and selling Surgical instruments, Dental instruments worldwide</p>
             </div>
@@ -53,25 +53,14 @@
                 <p class="align-items-center fontsize14 d-flex text-white"><i class="far fa-envelope mr-4 fontsize18"></i> sales@densol.com.au</p>
                 <p class="align-items-center fontsize14 d-flex text-white"><i class="far fa-clock mr-4 fontsize18"></i> 9:00am-4:00pm Weekdays</p>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+            <div class="col-xl-4 col-lg-3 col-md-12 col-sm-12">
                 <h5 class="fontwieghtbold fontsize24 m-b-15 pt-md-5">Information</h5>
                 <ul class="list-unstyled bottom-links">
                     <li><a href="<?php echo getSeoLink("cms",144);?>" class="linked">Sterilizing & Cleaning Instructions</a></li>
-                    <li><a href="<?php echo getSeoLink("cms",143);?>" class="linked">Credit Terms</a></li>
                     <li><a href="<?php echo getSeoLink("cms",142);?>" class="linked">Warranty policy</a></li>
-                    <li><a href="<?php echo getSeoLink("cms",125);?>">Manufacturing Process</a> </li>
                     <li><a href="<?php echo getSeoLink("cms",105);?>">Privacy Policy</a> </li>
                 </ul>
             </div> 
-            <div class="col-xl-2 col-lg-3 col-md-12 col-sm-12">
-                <h5 class="fontwieghtbold fontsize24 m-b-15 pt-md-5">Services</h5>
-                <ul class="list-unstyled bottom-links">
-                    <li><a href="<?=base_url("pay-online/");?>" class="linked">Pay Bills Online</a></li>
-                    <li><a href="<?=base_url('open-a-credit-account/');?>" class="linked">Open A Credit Account</a></li>
-                    <li><a href="<?php echo getSeoLink("cms",141);?>" class="linked">Become A Distributor</a></li>
-                    <li><a href="<?php echo getSeoLink("cms",110);?>" class="linked">Medical Rep</a></li>
-                </ul>
-            </div>
         </div>
     </div>
     <div class="lightdarkblusecolorbg col-10 mx-auto px-4 py-2 borderradius-top-right-left10">

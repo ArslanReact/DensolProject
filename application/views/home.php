@@ -12,45 +12,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
     echo $slider;
 
     ?>
-    <!-- <div class="pb-4">
-        <div class="container">
-            <div class="row">
-                <div class="col mb-md-0 mb-4">
-                    <a href="<?=base_url('offer');?>">
-                        <div class="align-items-center p-3 d-flex redcolorbg borderradius15">
-                            <div class="col-auto p-0"><img width="64" src="<?=base_url();?>files/frontend/images/icon5.svg" alt="" width="64" height="64"></div>
-                            <div class="col"><h6 class="text-white fontwieghtbold fontsize18">Free Shipping</h6></div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col mb-md-0 mb-4">
-                    <a href="<?=base_url('offer');?>">
-                        <div class="align-items-center p-3 d-flex lightblusecolorbg borderradius15">
-                            <div class="col-auto p-0"><img width="64" src="<?=base_url();?>files/frontend/images/icon6.svg" alt="" width="64" height="64"></div>
-                            <div class="col"><h6 class="text-white fontwieghtbold fontsize18">No Credit<br> Card Fee</h6></div>
-                        </div>
-                    </a>
-                </div> 
-                <div class="col mb-md-0 mb-4">
-                    <a href="<?=base_url('offer');?>">
-                        <div class="align-items-center p-3 d-flex goldcolorbg borderradius15">
-                            <div class="col-auto p-0"><img width="64" src="<?=base_url();?>files/frontend/images/icon7.svg" alt="" width="64" height="64"></div>
-                            <div class="col"><h6 class="text-white fontwieghtbold fontsize18">Student <br>Discount</h6></div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col mb-md-0 mb-4">
-                    <a href="<?=base_url('offer');?>">
-                        <div class="align-items-center p-3 d-flex lightgreencolorbg borderradius15">
-                            <div class="col-auto p-0"><img width="64" src="<?=base_url();?>files/frontend/images/icon8.svg" alt="" width="64" height="64"></div>
-                            <div class="col"><h6 class="text-white fontwieghtbold fontsize18">Best Price<br> Promise</h6></div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--  -->
+
     <div class="p-b-60">
         <div class="container">
             <div class="card p-0 overflow-hidden">
@@ -73,24 +35,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
     <div class="p-b-60">
         <div class="container">
             <div class="row">
-                <!-- <div class="col-xl-4 col-lg-4 col-md-12">
-                    <a href="<?=base_url('open-a-credit-account/');?>">
-                    <div class="borderradius15 goldcolorbg p-4 m-b-20 align-items-center d-flex">
-                        <div class="col-auto"><img width="64" src="<?=base_url();?>files/frontend/images/icon2.svg" alt="" width="64" height="64"></div>
-                        <div class="col"><h6 class="text-white fontwieghtbold fontsize24">Open a Credit Account</h6></div>
-                    </div>
-                    </a>
-                    <div class="borderradius15 purplecolorbg p-4 m-b-20 align-items-center d-flex">
-
-                        <div class="col-auto"><img width="64" src="<?=base_url();?>files/frontend/images/icon3.svg" alt="" width="64" height="64"></div>
-                        <div class="col"><a href="<?=base_url('student');?>"><h6 class="text-white fontwieghtbold fontsize24">Student Account </h6></a></div>
-
-                    </div>
-                    <div class="borderradius15 lightgreencolorbg p-4 align-items-center mb-3 mb-md-0 d-flex">
-                        <div class="col-auto"><img width="64" src="<?=base_url();?>files/frontend/images/icon4.svg" alt="" width="64" height="64"></div>
-                        <div class="col"><a href="<?=base_url('weekly-promotion');?>"> <h6 class="text-white fontwieghtbold fontsize24">Weekly Promotion </h6></a></div>
-                    </div>
-                </div> -->
+      
                 <div class="col-xl-6 col-lg-4 col-md-12">
                     <div class="blusecolorbg bg1 p-4 m-b-20 borderradius15 h-376">
                         <a href="<?=base_url();?>uploads/2019/11/AR1.pdf" class="d-block"><img class="img-fluid" src="<?=base_url();?>files/frontend/images/logo2.png" alt="" width="217" height="55">
@@ -175,17 +120,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                 <div class="btn-speak d-block"><a href="<?=base_url('weekly-promotion');?>" class="text-right"><img style="height:auto;" class="img-fluid" width="30" src="<?=base_url();?>files/frontend/images/ss.svg"></a></div>
                                 <?php }?>
                         <h5 class="text-left"><a class="fontwieghtbold blusecolortext d-block fontsize14 m-t-10 m-b-10" href="<?php echo base_url("product/".$product->slug);?>"><?=$product->title;?></a></h5>
-                        <div class="align-items-center m-t-15 w-100 d-flex justify-content-between">
-                            <!--<?php $prdprices = getuserprdprice($product->id); ?>-->
-                            <!--<div class="fontwieghtbold fontsize24 greencolortext">$<?php  echo $prdprices["new_price"]; ?></div>-->
-                            <!--<?php if($prdprices["old_price"] > 0){?>-->
-                            <!--<div class="fontsize18 paragraphcolortext line-through">$<?php echo $prdprices["old_price"];?></div>-->
-                            <!--<?php }?>-->
-                            <?php
-                        $tdtdprices = getuserprdprice($product->id);
-                        echo geteasyprodprice($product->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex justify-content-between align-items-center w-100'","small class='line-through paragraphcolortext fontsize16'");
-                        ?>
-                        </div>
+                     
                     </div>
                 </div>
 <?php }}?>
@@ -216,8 +151,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
             </div>
         </div>
     </div>
-     <!--<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>-->
-    <!--Testimonials-->
+
     <style>
         .carousel.vertical .carousel-inner .item { -webkit-transition: 0.6s ease-in-out top; -moz-transition: 0.6s ease-in-out top; -ms-transition: 0.6s ease-in-out top; -o-transition: 0.6s ease-in-out top; transition: 0.6s ease-in-out top;}
         .carousel.vertical .carousel-inner { height:270px; display: flex; align-items: flex-end; justify-content: end;}
@@ -232,28 +166,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 foreach($testi as $cms){
             ?>
             <div class="row pb-5">
-                <!--<div id="myCarousel-removed" class="vertical-slider carousel vertical slide col-md-12" data-ride="carousel">-->
-                <!--    <div class="carousel-inner">-->
-                <!--        <div class="testimonials_box item-removed">-->
-                <!--            <div class="card pt-0 m-0">-->
-                <!--                <div class="card-header mr-auto">-->
-                <!--                    <a href="#" class=""><img class="img-fluid" src="<?=base_url();?><?php echo $cms['image']; ?>" alt="" width="100" alt=""></a>-->
-                <!--                </div>-->
-                <!--                <div class="name">-->
-                <!--                    <p class="fontsize16 m-0"><strong class="blusecolortext d-block fontsize18"> <?php echo $cms['title']; ?></strong></p>-->
-                <!--                </div>-->
-                <!--                <div class="h-100 d-block card-body">-->
-                                    <!--<div class="position-absolute left-0 right-0"><img class="img-fluid" src="<?=base_url();?>files/frontend/images/quotation.svg" alt="" width="100" alt=""></div>-->
-                <!--                    <blockquote class="fontsize16 m-0"><?php echo $cms['content']; ?></blockquote>-->
-                <!--                    <div class="justify-content-between d-flex mt-4 w-50 ml-auto">-->
-                <!--                        <p class="fontsize16 m-0"> <?php echo $cms['position']; ?></p>-->
-                <!--                        <p class="fontsize16 m-0"> <?php echo $cms['clinicname']; ?></p>-->
-                <!--                    </div>-->
-                <!--                </div>-->
-                <!--            </div>-->
-                <!--        </div>-->
-                <!--    </div>-->
-                <!--</div>-->
+
                 <div class="col-xl-12 col-lg-12 pb-4">
                     <div class="testimonials_box item-removed">
                         <div class="card pt-0 m-0">
@@ -281,82 +194,12 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
     <?php } ?>
 
 
-    <!--<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>-->
-    <!--<script>-->
-    <!--  var swiper = new Swiper(".mySwiper", {-->
-    <!--    direction: "vertical",-->
-    <!--    pagination: {-->
-    <!--      el: ".swiper-pagination",-->
-    <!--      clickable: true,-->
-    <!--    },-->
-    <!--    autoplay: {-->
-    <!--          delay: 2500,-->
-    <!--          disableOnInteraction: false,-->
-    <!--        },-->
-    <!--  });-->
-    <!--</script>-->
-     
-    <!--  -->
-    <!--<div class="m-t-60 m-b-60 subscribe" id="subscribe">-->
-    <!--    <div class="container">-->
-            <!--<form action="<//?=base_url();?>submit-subscribe" method="post">-->
-    <!--        <//?php -->
-				<!--// $subserror_color = "#ff8888"; $subsfont_size = "12px";-->
-				<!--// if($this->session->flashdata('subserror') !== ""){$subserror = $this->session->flashdata('subserror');}else{$subserror = array();}-->
-				<!--// ?>-->
-            <!--    <input type="hidden" name="<//?php echo $this->security->get_csrf_token_name(); ?>" value="<//?php echo $this->security->get_csrf_hash();?>" />-->
-            <!--    <div class="card py-lg-0 borderradius30">-->
-            <!--        <div class="row align-items-center">-->
-            <!--            <div class="col-xl-1 col-lg-2 col-md-2 text-center d-none d-md-block"><img class="" src="<//?=base_url();?>files/frontend/images/icon1.svg" alt="" width="62" height="62"></div>-->
-            <!--            <div class="col-xl-7 col-lg-10 col-md-10 col-sm-12">-->
-            <!--                <h5 class="fontsize24 fontwieghtbold m-b-15">Subscribe Now</h5>-->
-            <!--                <div class="form-group m-0 position-relative">-->
-            <!--                    <input type="email" class="form-control borderradius15" placeholder="enter your email" name="email" id="">-->
-            <!--                    <input type="hidden" name="return" value="<//?php echo $this->uri->uri_string();?>">-->
-                                
-            <!--                   <span style="color:#000;"><//?php-->
-            <!--                   //echo $num = rand(10152,1015780);-->
-                               
-            <!--                   ?>-->
-            <!--                   </span>-->
-            <!--                   <input type="hidden" name="captcha1" value="<//?=$num?>">-->
-            <!--                   <input type="text" name="captcha" required>-->
-            <!--                    <button type="submit" class="btn btn-subscribe"><i class="fas fa-long-arrow-alt-right"></i></button>-->
-            <!--                </div>-->
-            <!--            </div>-->
-            <!--            <div class="col-xl-4 text-center d-none d-xl-block">-->
-            <!--                <div class="offerbg"><img class="img-fluid" src="<//?=base_url();?>files/frontend/images/offer.png" alt="" width="336" height="186"></div>-->
-            <!--            </div>-->
-            <!--        </div>-->
-            <!--    </div>-->
-            <!--</form>-->
-    <!--    </div>-->
-    <!--</div>-->
-    <?php
-    //$uid = $this->session->userdata('uid');
-    //$sql = $this->db->query("select * from order_summary where ord_user_fk = '".$uid."' ");
-    //$data = $sql->result_array();
-    //foreach($data as $aw){
-      //  echo $aw['ord_order_number'],'<br>';
-        
-    //}
-    ?>
+
     
     <?php
     echo $footer;
     echo $scripts;
      ?>
-     <script>
-        //  $('.btn-vertical-slider').on('click', function () {
-        
-        //     if ($(this).attr('data-slide') == 'next') {
-        //         $('#myCarousel').carousel('next');
-        //     }
-        //     if ($(this).attr('data-slide') == 'prev') {
-        //         $('#myCarousel').carousel('prev')
-        //     }
-    
-        // });
-     </script>
+
 </body>
 </html>

@@ -104,7 +104,7 @@
       }
 
       #invoicebox {
-      border-bottom: 3px solid #3eb64e;
+      border-bottom: 3px solid #8f9193;
       padding-bottom: 6px;
       margin-bottom: 20px;
       position:relative;
@@ -173,7 +173,7 @@ table td{
         height: 30px;
         position: relative;
         bottom: 0;
-        border-top: 3px solid #3fb64c;
+        border-top: 3px solid #8f9193;
         padding: 8px 0;
         margin-top:20px;
         text-align: center;

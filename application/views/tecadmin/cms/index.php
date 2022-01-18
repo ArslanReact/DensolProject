@@ -70,9 +70,9 @@
                                 <td>
                                     <?php if(is_parent("cms",$cms->id)==1){?>
                                         <a class="nlink" href="<?php echo base_url().ADMIN_FOLDER.'/cms/'.$cms->id;?>"><?php echo $cms->title;?></a>
-                                    <? }else{?>
+                                    <?php }else{?>
                                         <?php echo $cms->title;?>
-                                    <? }?>
+                                    <?php }?>
                                 </td>
                                 <td>
                                     <?php echo $cms->helper_name;?>
@@ -83,7 +83,7 @@
                                 <td>
                                     <?php echo getParentwithlink("cms","/cms/",$cms->id);?>
                                 </td>
-                                <td><?php if($cms->is_active==1){?><label class="btn btn-all">Yes</label><? }else{?><label class="btn btn-danger">No</label><? }?></td>
+                                <td><?php if($cms->is_active==1){?> <label class="btn btn-all">Yes</label> <?php }else{ ?> <label class="btn btn-danger">No</label> <?php }?></td>
                                 <td><input type="number" name="<?php echo $cms->id;?>"  form="myform" class="form-control" value="<?php echo $cms->sort;?>" style="max-width:50px;"></td>
                                 <td><?php echo timesincenew($cms->created)." ago";?></td>
                                 <td>
@@ -92,7 +92,9 @@
                                     <a title="Delete" class="btn btn-danger btn-sm"  href="<?php echo base_url().ADMIN_FOLDER.'/cms/delete/'.$cms->id;?>" onclick="return confirm('Are you sure you want to delete this record?');"><i class="fa fa-trash f-16"></i></a>
                                 </td>
                             </tr>
-                            <? }}?>
+                            <?php } ?>
+                        
+                           <?php } ?>
                         </tbody>
                     </table>
                   </div>  

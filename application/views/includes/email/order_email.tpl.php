@@ -34,7 +34,7 @@
       </div>
     </header>
     <main>
-      <div style="border-bottom:3px solid #3eb64e;padding-bottom: 6px;margin-bottom: 25px;height:20px;" class="clearfix">
+      <div style="border-bottom:3px solid #8f9193;padding-bottom: 6px;margin-bottom: 25px;height:20px;" class="clearfix">
         <div style="float: left;width: 100%;">
           <h1 style="color: #0087C3;font-size: 20px;line-height: 20px;font-weight: normal;padding: 0;float: left;margin: 0;">ORD #<?php echo ORDER_NUMBER_PREFIX.$summary_data[$this->flexi_cart_admin->db_column('order_summary', 'order_number')];?></h1>
           <div style="font-size: 1.1em;color: #777777;float: right;text-align: right;">Issue Date: <?php echo date('m d Y', strtotime($summary_data[$this->flexi_cart_admin->db_column('order_summary', 'date')]));?></div>
@@ -62,9 +62,7 @@
             <th class="no" width="50" style="text-align:center;">#</th>
             <th class="desc">SKU</th>
             <th class="desc">ITEM</th>
-            <th class="unit" width="50">PRICE</th>
             <th class="qty" width="50">QTY</th>
-            <th class="total" width="50">TOTAL</th>
           </tr>
         </thead>
         <tbody>
@@ -99,114 +97,10 @@
               echo (! empty($row[$this->flexi_cart_admin->db_column('order_details', 'item_options')])) ? '<br/>'.$row[$this->flexi_cart_admin->db_column('order_details', 'item_options')] : NULL; 
             ?>
             </td>
-            <td class="unit">
-            <?php 
-                // If an item discount exists.
-                if ($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_quantity')] > 0) 
-                {
-                    // If the quantity of non discounted items is zero, strike out the standard price.
-                    if ($row[$this->flexi_cart_admin->db_column('order_details', 'item_non_discount_quantity')] == 0)
-                    {
-                        echo '<span style="text-decoration:line-through;">'.$this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_price')], TRUE, 2, TRUE).'</span><br/>';
-                    }
-                    // Else, display the quantity of items that are at the standard price.
-                    else
-                    {
-                        echo number_format($row[$this->flexi_cart_admin->db_column('order_details', 'item_non_discount_quantity')]).' @ '.
-                            $this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_price')], TRUE, 2, TRUE).'<br/>';
-                    }
-                    
-                    // If there are discounted items, display the quantity of items that are at the discount price.
-                    if ($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_quantity')] > 0)
-                    {
-                        echo number_format($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_quantity')]).' @ '.
-                            $this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_price')], TRUE, 2, TRUE);
-                    }
-                }
-                // Else, display price as normal.
-                else
-                {
-                    echo $this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_price')], TRUE, 2, TRUE);
-                }
-            ?>
-            </td>
             <td class="qty" style="text-align:center;"><?php echo round($row[$this->flexi_cart_admin->db_column('order_details', 'item_quantity')], 2); ?></td>
-            <td class="total">
-            <?php 
-                // If an item discount exists, strike out the standard item total and display the discounted item total.
-                if ($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_quantity')] > 0)
-                {
-                    echo '<span style="text-decoration:line-through;">'.$this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_price_total')], TRUE, 2, TRUE).'</span><br/>';
-                    echo $this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_discount_price_total')], TRUE, 2, TRUE);
-                }
-                // Else, display item total as normal.
-                else
-                {
-                    echo $this->flexi_cart_admin->format_currency($row[$this->flexi_cart_admin->db_column('order_details', 'item_price_total')], TRUE, 2, TRUE);
-                }
-            ?>
-            </td>
+
           </tr>
             <?php $xd++;} ?>
-          <tr>
-            <td colspan="5" style="text-align:right; padding-right: 20px;">SUBTOTAL:</td>
-            <td><?php echo $this->flexi_cart_admin->format_currency($summary_data[$this->flexi_cart_admin->db_column('order_summary', 'item_summary_total')], TRUE, 2, TRUE);?></td>
-          </tr>
-
-          <?php
-                if( $summary_data['payment_type'] == 2){
-                    ?>
-          <tr>
-  
-            <td colspan="5" style="text-align:right;  padding-right: 20px;">Paypal Discount:</td>
-            <td>
-                <?php
-                
-                 echo $this->flexi_cart_admin->format_currency(7.5/100*$summary_data[$this->flexi_cart_admin->db_column('order_summary', 'total')]);
-             
-                ?>
-                
-                </td>
-          </tr>
-          <?php }?>          
-
-          <?php 
-              // If an item discount exists.
-              if (!empty($finalarray)) { 
-          ?>
-          <tr>
-            <td colspan="5" style="text-align:right; padding-right: 20px;"><?php echo $finalarray['description']; ?>:</td>
-            <td>$<?php echo $finalarray['value']; ?></td>
-          </tr>
-          <?php } ?>          
-          <tr>
-            
-            <td colspan="5" style="text-align:right; padding-right: 20px;"><?php echo "INCLUDED TAX @ ".$summary_data[$this->flexi_cart_admin->db_column('order_summary', 'tax_rate')];?>%</td>
-            <?php if( $summary_data['payment_type'] == 2){ ?>
-                <td><?php echo  $this->flexi_cart_admin->format_currency($summary_data['ord_total']/11); ?></td>
-            <?php } else { ?>
-                <td><?php echo $this->flexi_cart_admin->format_currency($summary_data[$this->flexi_cart_admin->db_column('order_summary', 'tax_total')], TRUE, 2, TRUE);?></td>
-            <?php } ?>
-          </tr>
-          <tr>
-            <td colspan="5" style="text-align:right; padding-right: 20px;">SHIPPING: <?php echo $summary_data[$this->flexi_cart_admin->db_column('order_summary', 'shipping_name')];?></td>
-            <td><?php echo $this->flexi_cart_admin->format_currency($summary_data[$this->flexi_cart_admin->db_column('order_summary', 'shipping_total')], TRUE, 2, TRUE);?></td>
-          </tr>
-          <tr>
-  
-            <td colspan="5" style="text-align:right;  padding-right: 20px;">GRAND TOTAL:</td>
-            <td>
-                <?php
-                if( $summary_data['payment_type'] == 2){
-                 echo $this->flexi_cart_admin->format_currency($summary_data['ord_total']-7.5/100*$summary_data[$this->flexi_cart_admin->db_column('order_summary', 'total')]);
-             }else{
-                 echo $this->flexi_cart_admin->format_currency($summary_data[$this->flexi_cart_admin->db_column('order_summary', 'total')], TRUE, 2, TRUE);
-                
-             }
-               ?>
-                
-                </td>
-          </tr>
         </tbody>
       </table>
       <div style="font-size: 2em;margin-bottom: 50px;">Thank you!</div>
@@ -214,7 +108,7 @@
         <div>COMMENTS:</div>
       </div>
     </main>
-    <footer style="margin-top:20px; color: #0087c3;width: 100%;height: 30px;position: relative;bottom: 0;border-top: 3px solid #3fb64c;padding: 8px 0;text-align: center;">
+    <footer style="margin-top:20px; color: #0087c3;width: 100%;height: 30px;position: relative;bottom: 0;border-top: 3px solid #8f9193;padding: 8px 0;text-align: center;">
       Invoice was created on a computer and is valid without the signature and seal.
     </footer>
     </div>

@@ -292,31 +292,18 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
 		                          <?php $paramsform = array("id" => "proceed", "class" => "require-validation"); echo form_open(current_url(),$paramsform);?>
 		                          <div class="row">
                                     <div class="col-xl-6 col-lg-6 col-md-12">
-                                    <?php
-                                   if(!$loginuser){
-                                   if($this->session->flashdata('login_error') != "" || $this->session->flashdata('forgot_error') != ""){
-                                   $openloginform = "in";
-                                        }else{
-                                   $openloginform = "";
-                                    }
-                                     ?>
-                                        <h6 class="fontsize18 blusecolortext fontwieghtbold"><small class="fontsize16 paragraphcolortext">Returning customer?</small> <a href="<?=base_url('login');?>" class="fontsize18 blusecolortext fontwieghtbold">Click here to login</a></h6>
-                                        <?php }else{?>
-                                         <?php
-                                          $userfilldata = getuserData($this->session->userdata('uid'));
-                                             ?>
-                                         <?php }?>
+                  
                                          
-                                        <div class="card p-3 mt-3">
+                                        <div class="card h-100 p-3 mt-3">
                                             <h5 class="fontwieghtbold m-b-15 fontsize18">Billing Details</h5>
                              <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group required">
                                     <label class="control-label" for="checkout_billing_name">Full Name <span class="rq">*</span></label>
                                     <?php if(!$loginuser){ ?>
-                                        <input type="text" name="checkout[billing][name]" id="checkout_billing_name" value="<?php echo set_value('checkout[billing][name]');?>" placeholder="Name" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][name]" id="checkout_billing_name" value="" placeholder="Name" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="text" name="checkout[billing][name]" id="checkout_billing_name" value="<?php echo $userfilldata->name;?>" placeholder="Name" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][name]" id="checkout_billing_name" value="" placeholder="Name" class="form-control h-45 borderradius10"/>
                                     <?php }?>
                                 </div>
                             </div>
@@ -324,9 +311,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                     <label class="control-label" for="checkout_billing_company">Comapny <span class="rq">*</span></label>
                                     <?php if(!$loginuser){ ?>
-                                        <input type="text" name="checkout[billing][company]" id="checkout_billing_company" value="<?php echo set_value('checkout[billing][company]');?>" placeholder="Company" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][company]" id="checkout_billing_company" value="" placeholder="Company" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="text" name="checkout[billing][company]" id="checkout_billing_company" value="<?php echo $userfilldata->company;?>" placeholder="Company" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][company]" id="checkout_billing_company" value="" placeholder="Company" class="form-control h-45 borderradius10"/>
                                     <?php }?>
                                 </div>
                             </div>
@@ -334,9 +321,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                     <label class="control-label" for="checkout_email">Email <span class="rq">*</span></label>
                                     <?php if(!$loginuser){ ?>
-                                        <input type="email" name="checkout[email]" id="checkout_email" value="<?php echo set_value('checkout[email]');?>" placeholder="Email" class="form-control h-45 borderradius10"/>
+                                        <input type="email" name="checkout[email]" id="checkout_email" value="" placeholder="Email" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="email" name="checkout[email]" id="checkout_email" value="<?php echo $userfilldata->email;?>" placeholder="Email" class="form-control h-45 borderradius10"/>
+                                        <input type="email" name="checkout[email]" id="checkout_email" value="" placeholder="Email" class="form-control h-45 borderradius10"/>
                                     <?php }?>
                                 </div>
                             </div>
@@ -344,9 +331,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                     <label class="control-label" for="checkout_phone">Phone <span class="rq">*</span></label>
                                     <?php if(!$loginuser){ ?>
-                                        <input type="text" name="checkout[phone]" id="checkout_phone" value="<?php echo set_value('checkout[phone]');?>" placeholder="Phone Number" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[phone]" id="checkout_phone" value="" placeholder="Phone Number" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="text" name="checkout[phone]" id="checkout_phone" value="<?php echo $userfilldata->phone;?>" placeholder="Phone Number" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[phone]" id="checkout_phone" value="" placeholder="Phone Number" class="form-control h-45 borderradius10"/>
                                     <?php }?> 
                                 </div>
                             </div>
@@ -354,16 +341,16 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                     <label class="control-label" for="checkout_billing_add_01">Address:<span class="rq">*</span></label>
                                     <?php if(!$loginuser){ ?>
-                                        <input type="text" name="checkout[billing][add_01]" id="checkout_billing_add_01" value="<?php echo set_value('checkout[billing][add_01]');?>" placeholder="Address Line 1" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][add_01]" id="checkout_billing_add_01" value="" placeholder="Address Line 1" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="text" name="checkout[billing][add_01]" id="checkout_billing_add_01" value="<?php echo $userfilldata->address1;?>" placeholder="Address Line 1" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][add_01]" id="checkout_billing_add_01" value="" placeholder="Address Line 1" class="form-control h-45 borderradius10"/>
                                     <?php }?> 
                                 </div>
                                 <div class="form-group">
                                     <?php if(!$loginuser){ ?>
-                                        <input type="text" name="checkout[billing][add_02]" id="checkout_billing_add_02" value="<?php echo set_value('checkout[billing][add_02]');?>" placeholder="Address Line 2" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][add_02]" id="checkout_billing_add_02" value="" placeholder="Address Line 2" class="form-control h-45 borderradius10"/>
                                     <?php }else{?>
-                                        <input type="text" name="checkout[billing][add_02]" id="checkout_billing_add_02" value="<?php echo $userfilldata->address2;?>" placeholder="Address Line 2" class="form-control h-45 borderradius10"/>
+                                        <input type="text" name="checkout[billing][add_02]" id="checkout_billing_add_02" value="" placeholder="Address Line 2" class="form-control h-45 borderradius10"/>
                                     <?php }?>
                                 </div>
                             </div>
@@ -371,9 +358,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                 <label class="control-label" for="checkout_billing_city">City / Town: <span class="rq">*</span></label>
                                 <?php if(!$loginuser){ ?>
-                                    <input type="text" name="checkout[billing][city]" id="checkout_billing_city" value="<?php echo set_value('checkout[billing][city]');?>" placeholder="City / Town" class="form-control h-45 borderradius10"/>
+                                    <input type="text" name="checkout[billing][city]" id="checkout_billing_city" value="" placeholder="City / Town" class="form-control h-45 borderradius10"/>
                                 <?php }else{?>
-                                    <input type="text" name="checkout[billing][city]" id="checkout_billing_city" value="<?php echo $userfilldata->city;?>" placeholder="City / Town" class="form-control h-45 borderradius10"/>
+                                    <input type="text" name="checkout[billing][city]" id="checkout_billing_city" value="" placeholder="City / Town" class="form-control h-45 borderradius10"/>
                                 <?php }?>
                                 </div>
                             </div>
@@ -381,9 +368,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                 <label class="control-label" for="checkout_billing_state">State / County: <span class="rq">*</span></label>
                                 <?php if(!$loginuser){ ?>
-                                    <input type="text" name="checkout[billing][state]" id="checkout_billing_state" value="<?php echo set_value('checkout[billing][state]', $this->flexi_cart->shipping_location_name(2));?>" placeholder="State" class="form-control h-45 borderradius10"/>
+                                    <input type="text" name="checkout[billing][state]" id="checkout_billing_state" value="" placeholder="State" class="form-control h-45 borderradius10"/>
                                 <?php }else{?>
-                                    <input type="text" name="checkout[billing][state]" id="checkout_billing_state" value="<?php echo $userfilldata->state;?>" placeholder="State" class="form-control h-45 borderradius10"/>
+                                    <input type="text" name="checkout[billing][state]" id="checkout_billing_state" value="" placeholder="State" class="form-control h-45 borderradius10"/>
                                 <?php }?>
                                 </div>
                             </div>
@@ -391,9 +378,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                 <div class="form-group required">
                                 <label class="control-label" for="checkout_billing_post_code">Post / Zip Code: <span class="rq">*</span></label>
                                 <?php if(!$loginuser){ ?>
-                                <input type="text" name="checkout[billing][post_code]" id="checkout_billing_post_code" value="<?php echo set_value('checkout[billing][post_code]', $this->flexi_cart->shipping_location_name(3));?>" placeholder="Post / Zip Code" class="form-control h-45 borderradius10"/>
+                                <input type="text" name="checkout[billing][post_code]" id="checkout_billing_post_code" value="" placeholder="Post / Zip Code" class="form-control h-45 borderradius10"/>
                                 <?php }else{?>
-                                <input type="text" name="checkout[billing][post_code]" id="checkout_billing_post_code" value="<?php echo $userfilldata->zip;?>" placeholder="Post / Zip Code" class="form-control h-45 borderradius10"/>
+                                <input type="text" name="checkout[billing][post_code]" id="checkout_billing_post_code" value="" placeholder="Post / Zip Code" class="form-control h-45 borderradius10"/>
                                 <?php }?>
                                 </div>
                             </div>
@@ -436,7 +423,7 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                          
                         
                         
-                        <div class="card p-3 mt-6">
+                        <div class="card h-100 p-3 mt-3">
                         <legend>Shipping Details</legend>
 
                         <div>
@@ -509,127 +496,10 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                     </div>
                                     <?php echo form_close();?>
                                     <div class="col-xl-12 m-t-40" style="padding:0px;">
-                                        <div class="card">
-                                            <h5 class="blusecolortext fontwieghtbold fontsize24">Your Order</h5>
-                                            <div class="table-responsive">
-                                                <table id="cart_summary">
-                   
-                    <tbody>
-                        <!-- <tr>
-                            <td>
-                                Reward Points Earned
-                            </td>
-                            <td>
-                                <?php //echo $this->flexi_cart->total_reward_points();?> points
-                            </td>
-                        </tr> -->
-                        <!-- <tr>
-                            <td>
-                                Total Weight
-                            </td>
-                            <td>
-                                <?php //echo $this->flexi_cart->total_weight();?>
-                            </td>
-                        </tr> -->
-                        <tr>
-                            <td>
-                                Item Summary Total
-                            </td>
-                            <td>
-                                <?php echo $this->flexi_cart->item_summary_total();?>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Shipping Rate <strong>[<?php echo $this->flexi_cart->shipping_name();?>]</strong>
-                            </td>
-                            <td>
-                                <?php echo $this->flexi_cart->shipping_total();?>
-                            </td>
-                        </tr>
-                                                        
-                    <?php if ($this->flexi_cart->summary_discount_status()) { ?>
-                        <tr class="discount">
-                            <th>Discount Summary</th>
-                            <td>&nbsp;</td>
-                        </tr>
-                        
-                    <?php if ($this->flexi_cart->item_summary_discount_status()) { ?>
-                        <!-- 
-                            Rather than repeating the descriptions of each item discount listed via the cart, 
-                            this example summarises the discount totals of all items.
-                        -->
-                        <tr class="discount">
-                            <th>
-                                <span class="pad_l_20">
-                                    &raquo; Item discount discount savings
-                                </span>
-                            </th>
-                            <td>
-                                <?php echo $this->flexi_cart->item_summary_savings_total();?>
-                            </td>
-                        </tr>
-                    <?php } ?>
-                        
-                        <!-- 
-                            This example uses the 'summary_discount_data()' function to return an array of summary discount values and descriptions.
-                            An alternative to using a custom loop to return this discount array, is to call the 'summary_discount_description()' function,
-                            which will return a formatted string of all summary discounts. 
-                        -->
-                    <?php foreach($discounts as $discount) { ?>
-                        <tr class="discount">
-                            <th>
-                                <span class="pad_l_20">
-                                    &raquo; <?php echo $discount['description'];?>
-                                <?php if (! empty($discount['id'])) { ?>
-                                    : <a href="<?php echo base_url(); ?>/unset_discount/<?php echo $discount['id']; ?>">Remove</a>
-                                <?php } ?>
-                                </span>
-                            </th>
-                            <td><?php echo $discount['value'];?></td>
-                        </tr>
-                    <?php } ?>
-                        <tr class="discount">
-                            <th>Discount Savings Total</th>
-                            <td><?php echo $this->flexi_cart->cart_savings_total();?></td>
-                        </tr>
-                    <?php } ?>
-
-                        
-         
-
-                    </tbody>
-                    <tfoot>
-                        <!-- <tr>
-                            <td>
-                                Sub Total (ex. tax)
-                            </td>
-                            <td>
-                                <?php echo $this->flexi_cart->sub_total();?>
-                            </td>
-                        </tr> -->
-                        <tr>
-                            <td>
-                                included <?php echo $this->flexi_cart->tax_name()." @ ".$this->flexi_cart->tax_rate(); ?>
-                            </td>
-                            <td>
-                                <?php echo $this->flexi_cart->tax_total();?>
-                            </td>
-                        </tr>
-                        
-                        <tr class="grand_total">
-                            <th>Grand Total</th>
-                            <td><?php echo $this->flexi_cart->total();?></td>
-                            
-                        </tr>
-                    </tfoot>
-                </table>
-                                            </div>
-                                            <div class="px-4 py-2 mt-5 mb-5 graycolorbg">
-                                                <!--<p class="">total <span class="d-inline-block ml-2 fontsize30 greencolortext fontwieghtbold"><?php // echo $this->flexi_cart->item_summary_total();?></span></p>-->
-                                                
-                                                <p class="">Total <span class="d-inline-block ml-2 fontsize30 greencolortext fontwieghtbold"><?php echo $this->flexi_cart->total();?></span></p>
-                                            </div>
+                                        
+                                           
+                                    
+                                           
                                             
 
                                             <div class="form-check m-t-20">
@@ -640,9 +510,9 @@ $grandTotal = $final2ndAmmount-$dicount_amunt;
                                                 <input type="hidden" name="checkout[payment][id]" form="proceed" id="1" value="1" checked="">
                                                 <div class="btn-group m-t-20"><button  type="submit" name="save_order" value="Proceed to Payment" form="proceed" class="borderradius50 fontsize16 btn btn-blue-fill">Place Order</button></div>
                                             </div>
-                                        </div>
-                                        
                                     </div>
+                                        
+                                
                                     
                                 </div>
                             </div>

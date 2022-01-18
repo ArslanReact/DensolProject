@@ -44,8 +44,8 @@
                     <li class="dropdown cartdropdown"><a href="<?php echo base_url("cart/");?>" class="mx-md-3 text-white linked fontsize14"><img src="<?=base_url();?>files/frontend/images/basket.svg" alt="" class="img-fluid mb-2" width="20" height="21"> Cart</a>
                         <div class="dropdown-menu dropdown-menu-md-right m-lg-0 p-2">
                             <div class="d-flex align-items-center justify-content-between mb-2">
-                                <p class="m-0 fontsize14">Cart Subtotal: <strong class="blusecolortext fontwieght800"><?php echo $this->flexi_cart->total();?></strong></p>
-                                <p class="m-0 fontsize14"><strong class="blusecolortext fontwieght800"><?php echo $this->flexi_cart->total_items();?></strong> items</p>
+                                <!-- <p class="m-0 fontsize14">Cart Subtotal: <strong class="blusecolortext fontwieght800"><?php //echo $this->flexi_cart->total();?></strong></p> -->
+                                <p class="m-0 fontsize14">Total Qty: <strong class="blusecolortext fontwieght800"><?php echo $this->flexi_cart->total_items();?></strong> items</p>
                             </div>
                             <a href="<?php echo base_url('checkout'); ?>"><button type="buttton" class="gradientblue btn bordernone fontsize14 fontwieghtbold text-white mb-2 w-100">Go To Checkout</button></a>
                             <ul class="list-unstyled py-2"  style="height: 250px;overflow-y: auto;">
@@ -65,13 +65,13 @@
                                                     // If an item discount exists, strike out the standard item total and display the discounted item total.
                                                     if ($row['discount_quantity'] > 0)
                                                     {
-                                                        echo '<span class="strike">'.$row['price_total'].'</span><br/>';
-                                                        echo $row['discount_price_total'].'<br/>';
+                                                        //echo '<span class="strike">'.$row['price_total'].'</span><br/>';
+                                                        //echo $row['discount_price_total'].'<br/>';
                                                     }
                                                     // Else, display item total as normal.
                                                     else
                                                     {
-                                                        echo $row['price_total'];
+                                                        
                                                     } ?><span class="float-right blusecolortext fontwieght800">qty: <?=$row['quantity'];?></span></p>
                                             </div>
                                         </li>

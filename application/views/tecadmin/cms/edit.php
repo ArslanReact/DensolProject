@@ -135,7 +135,7 @@
                                     }
                                 ?>
                                 <option <?php echo $sels3;?> value="<?php echo $gallery->id;?>"><?php echo $gallery->title;?></option>
-                                <?php }}?>
+                                <?php } }?>
                             </select>
                         
                         
@@ -156,7 +156,7 @@
                                     }
                                 ?>
                                 <option <?php echo $sels4;?> value="<?php echo $gallery->id;?>"><?php echo $gallery->title;?></option>
-                                <?php }}?>
+                                <?php } }?>
                             </select>
                         </div>
                         <?php }?>
@@ -180,7 +180,7 @@
                                     }
                                 ?>
                                 <option <?php echo $sels2;?> value="<?php echo $gallery->id;?>"><?php echo $gallery->title;?></option>
-                                <?php }}?>
+                                <?php } }?>
                             </select>
                         </div>
                         <?php }?>
@@ -276,7 +276,7 @@
                                     <fieldset>
                                         <label for="customRadio">Publish</label>
                                         <div class="custom-control custom-radio">
-                                        <input type="radio" class="custom-control-input" name="is_active" value="1" id="customRadio3" <?php if($cms->is_active==1){?>checked="checked"<? }?>>
+                                        <input type="radio" class="custom-control-input" name="is_active" value="1" id="customRadio3" <?php if($cms->is_active==1){ echo "checked"; } ?>>
                                         <label class="custom-control-label" for="customRadio3">Yes</label>
                                         </div>
                                     </fieldset>
@@ -284,7 +284,7 @@
                                     <li class="d-inline-block mr-2">
                                     <fieldset>
                                         <div class="custom-control custom-radio">
-                                        <input type="radio" class="custom-control-input" name="is_active" value="0" id="customRadio4" <?php if($cms->is_active==0){?>checked="checked"<? }?>>
+                                        <input type="radio" class="custom-control-input" name="is_active" value="0" id="customRadio4" <?php if($cms->is_active==0){ echo "checked"; } ?>>
                                         <label class="custom-control-label" for="customRadio4">No</label>
                                         </div>
                                     </fieldset>

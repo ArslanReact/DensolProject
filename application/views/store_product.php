@@ -85,8 +85,8 @@ div.cloudzoom-blank,div.cloudzoom-blank div.cloudzoom-lens{display: none !import
                     <h5 class="text-left"><a class="fontwieghtbold blusecolortext d-block fontsize30"><?php echo $producttitlehere;?></a></h5>
                     
                     <?php
-                        $tdtdprices = getuserprdprice($product->id);
-                        echo geteasyprodprice($product->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex align-items-center w-100'","small class='line-through paragraphcolortext fontsize18 m-l-10'");
+                        // $tdtdprices = getuserprdprice($product->id);
+                        // echo geteasyprodprice($product->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex align-items-center w-100'","small class='line-through paragraphcolortext fontsize18 m-l-10'");
                         ?>
                        
                    <p> <?=cleanout($product->short_detail);?></p>
@@ -127,67 +127,6 @@ div.cloudzoom-blank,div.cloudzoom-blank div.cloudzoom-lens{display: none !import
                     <input type="hidden" name="add_one_item_options" value="1">
 
                             <?php echo form_close();  ?>
-                            
-                            
-                            
-                            
-                            <div class="m-t-10 d-block btn-group">
-<?php
-$pid = $product->id;
-$query = $this->db->query("select * from product_specifications where product_id='$pid'");
-$result = $query->result_array();
-if($result){
-foreach($result as $optionprice){
-?>
-<?php
-                           echo form_open('insert_item_to_cart');
-                           
-                           ?>
-<div class="d-flex mb-4">
-<div class="quantity_box">
-<span id="decrease<?php echo $optionprice['title']?>" class="quantity_down"><i style="color:#676767;" class="fa fa-minus" aria-hidden="true"></i></span>
-<input id="number<?php echo $optionprice['title']?>" class="quantity_input" type="text" name="qty2" value="0">
-<span id="increase<?php echo $optionprice['title']?>" class="quantity_up m-r-10"><i style="color:#676767;" class="fa fa-plus" aria-hidden="true"></i></span>
-</div>
-<script>
-$(function() {
-$('#increase<?php echo $optionprice['title']?>').on('click', function() {
-var $qty = $("#number<?php echo $optionprice['title']?>");
-var currentVal = parseInt($qty.val());
-if (!isNaN(currentVal)) {
-$qty.val(currentVal + 1);
-}
-});
-$('#decrease<?php echo $optionprice['title']?>').on('click', function() {
-var $qty = $("#number<?php echo $optionprice['title']?>");
-var currentVal = parseInt($qty.val());
-if (!isNaN(currentVal) && currentVal > 0) {
-$qty.val(currentVal - 1);
-}
-});
-});
-</script>
-<span class="badge badge-primary line-height mr-3 blusecolorbg">Qty: <?php echo $optionprice['title']; ?> </span> <span class="badge badge-success line-height mr-3 blusecolorbg">Price: $ <input type="hidden" name="qty_price" value="<?php echo $optionprice['content']; ?>"><?php echo $optionprice['content']; ?></span><button style="border:0;" type="submit" name="submit" value="subprods<?php echo $optionprice['title']; ?>" class="btn btn-blue-fill" id="offeraddbtn<?php echo $optionprice['title']; ?>">Add To Cart</button>
- <script>
-// $(function() {
-// $('#offeraddbtn<?php echo $optionprice['title']?>').on('click', function() {
-// var qty = $("#number<?php echo $optionprice['title']?>").val();
-// alert(qty);
-// });
-// });
- </script>
-</div>
-
-<input type="hidden" name="id" value="<?php echo $product->id;?>">
-                    <!-- <input type="hidden" name="add_one_item" value="1"> -->
-                    <input type="hidden" name="add_one_item_options" value="1">
-                    
-                     <?php echo form_close();  ?>
-<?php } } ?>
-
-</div>
-
-
                 </div>
             </div>
         </div>
@@ -257,12 +196,7 @@ $qty.val(currentVal - 1);
                                 <div class="btn-speak d-block"><a href="<?=base_url('weekly-promotion');?>" class="text-right"><img class="img-fluid w-auto h-35" src="<?=base_url();?>files/frontend/images/ss.svg" style="width: 24px !important; height:auto !important; object-fit: auto !important;"></a></div>
                                 <?php }?>
                             <h5 class="text-left"><a class="fontwieghtbold blusecolortext d-block fontsize18" href="<?php echo base_url("product/".$rel_prd->slug);?>"><?php echo $rel_prd->title;?></a></h5>
-                            <div class="align-items-center m-t-15 w-100 d-flex justify-content-between m-t-10 m-b-10">
-                                <?php
-                        $tdtdprices = getuserprdprice($rel_prd->id);
-                        echo geteasyprodprice($rel_prd->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex justify-content-between align-items-center w-100'","small class='line-through paragraphcolortext fontsize16'");
-                        ?>
-                            </div>
+                            
                         </div>
                     </div>
                 <?php }}}?>

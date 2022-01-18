@@ -86,8 +86,8 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                     <!--<div class="fontsize18 paragraphcolortext line-through">$<?php echo $prodoldprice = $prdprices["old_price"];?></div>-->
                                     <!--<?php }?>-->
                                     <?php
-                        $tdtdprices = getuserprdprice($product->id);
-                        echo geteasyprodprice($product->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex justify-content-between align-items-center w-100'","small class='line-through paragraphcolortext fontsize16'");
+                        // $tdtdprices = getuserprdprice($product->id);
+                        // echo geteasyprodprice($product->id,"h3 class='fontwieghtbold fontsize30 greencolortext d-flex justify-content-between align-items-center w-100'","small class='line-through paragraphcolortext fontsize16'");
                         ?>
                                 </div>
                             </div>
